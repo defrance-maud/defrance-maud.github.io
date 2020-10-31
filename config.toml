@@ -1,4 +1,5 @@
 baseURL = "https://dieteticienne-nutritionniste-blain-nantes.fr/"
 languageCode = "fr-fr"
 title = "Maud DEFRANCE - Dieteticienne nutritionniste"
+publishDir = "docs"
 disableKinds = ["taxonomy", "taxonomyTerm"]

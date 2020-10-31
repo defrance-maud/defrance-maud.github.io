@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Site.Title }} &dash; {{ .Title }}</title>
+    <link rel="stylesheet" href="/assets/styles.css" type="text/css" media="all" />
+</head>
+
+<body class="home page-template-default page page-id-7 logged-in admin-bar right-sidebar boxed customize-support">
+    <div class="site-wrap">
+        <header class="site-header">
+            <div class="container cf">
+                <div class="branding text">
+                    <div class="logo">
+                        <a href="https://dieteticienne-nutritionniste-blain-nantes.fr/">
+                            <img src="https://dieteticienne-nutritionniste-nantes.net/wp-content/themes/wunderful/assets/images/logo.png"
+                                alt="Maud DEFRANCE">
+                        </a>
+                    </div>
+                    <div class="tagline">Diététicienne nutritionniste</div>
+                </div>
+            </div>
+        </header>
+
+        <nav class="site-nav">
+            <div class="container cf">
+                <div class="nav-wrap">
+                    <div class="menu-anchor cf">
+                        <span>Menu</span>
+                        <i class="fa fa-bars"></i>
+                    </div>
+
+                    <ul id="menu-menu-principal" class="site-menu">
+                        {{ $currentPage := . }}
+                        {{ range .Site.Menus.main }}
+                        <li
+                            class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}current-menu-item{{ end }}">
+                            <a href="{{ .URL }}">{{ .Name }}</a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="site-content">
+            <div class="container cf">
+                <div class="content-wrap">
+                    <div class="main-content">
+                        {{ block "main" . }}
+                        {{ .Content }}
+                        {{ end }}
+                    </div>
+                </div>
+
+                <div class="sidebar">
+
+                    <aside id="wunderful_widget_profile-2" class="widget wunderful_widget_profile cf">
+                        <h3 class="widget-title">A propos</h3>
+                        <div class="profile-widget">
+                            <img src="https://dieteticienne-nutritionniste-blain-nantes.fr/wp-content/uploads/2017/11/dieteticienne-nutritionniste-nantes-Maud-Defrance.png"
+                                class="profile-image" alt="" width="200">
+                            <div class="profile-header">
+                                <div class="profile-title">Maud DEFRANCE</div>
+                                <div class="profile-subtitle">Diététicienne nutritionniste</div>
+                            </div>
+                            <div class="profile-description">En activité depuis 2008, je vous accueille dans mon cabinet
+                                à Blain et également en téléconsultation.</div>
+                        </div>
+                    </aside>
+                    <aside id="custom_html-3" class="widget_text widget widget_custom_html cf">
+                        <h3 class="widget-title">Cabinet</h3>
+                        <div class="textwidget custom-html-widget">
+                            <ul>
+                                <li class="cat-item"><a
+                                        href="https://www.google.fr/maps/place/13+Avenue+de+la+Gare,+44130+Blain/"
+                                        target="_blank">13 Avenue de la Gare<br>44130 Blain <img
+                                            src="https://maps.gstatic.com/tactile/omnibox/directions-1x-20150909.png"
+                                            title="Itinéraire"></a></li>
+                            </ul>
+                        </div>
+                    </aside>
+                    <div id="undefined-sticky-wrapper" class="sticky-wrapper" style="height: 142px;">
+                        <div class="sticky-sidebar">
+                            <aside id="custom_html-2" class="widget_text widget widget_custom_html cf">
+                                <h3 class="widget-title">Me contacter</h3>
+                                <div class="textwidget custom-html-widget">
+                                    <ul>
+                                        <li class="cat-item">07 82 35 72 20</li>
+                                        <li class="cat-item"><a href="/index.php/me-contacter">Par email</a></li>
+                                    </ul>
+                                </div>
+                            </aside>
+                        </div>
+                    </div><!-- .sticky-sidebar -->
+                </div><!-- .sidebar -->
+
+            </div><!-- .container -->
+        </div><!-- .site-content -->
+
+        {{ block "footer" . }}
+        <footer class="site-footer text-center ">
+            <div class="container cf">
+                <div class="branding text">
+                    <div class="logo">
+                        <a href="https://dieteticienne-nutritionniste-blain-nantes.fr/">
+                            <img src="https://dieteticienne-nutritionniste-nantes.net/wp-content/themes/wunderful/assets/images/logo-white.png"
+                                alt="Maud DEFRANCE">
+                        </a>
+                    </div>
+                    <div class="tagline">
+                        Copyright © 2020 </div>
+                </div>
+            </div>
+        </footer>
+        {{ end }}
+    </div>
+
+    <script type="text/javascript"
+        src="https://dieteticienne-nutritionniste-blain-nantes.fr/wp-includes/js/admin-bar.min.js?ver=4.9.3"></script>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var wpcf7 = { "apiSettings": { "root": "https:\/\/dieteticienne-nutritionniste-blain-nantes.fr\/index.php\/wp-json\/contact-form-7\/v1", "namespace": "contact-form-7\/v1" }, "recaptcha": { "messages": { "empty": "Merci de confirmer que vous n\u2019\u00eates pas un robot." } } };
+/* ]]> */
+    </script>
+    <script type="text/javascript"
+        src="https://dieteticienne-nutritionniste-blain-nantes.fr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1"></script>
+    <script type="text/javascript"
+        src="https://dieteticienne-nutritionniste-blain-nantes.fr/wp-content/themes/wunderful/assets/plugin.js?ver=4.9.3"></script>
+    <script type="text/javascript"
+        src="https://dieteticienne-nutritionniste-blain-nantes.fr/wp-content/themes/wunderful/assets/theme.js?ver=4.9.3"></script>
+    <script type="text/javascript"
+        src="https://dieteticienne-nutritionniste-blain-nantes.fr/wp-includes/js/wp-embed.min.js?ver=4.9.3"></script>
+    <!--[if lte IE 8]>
+		<script type="text/javascript">
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+    <!--[if gte IE 9]><!-->
+    <script type="text/javascript">
+        (function () {
+            var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?' + cs + '(\\s+|$)');
+
+            request = true;
+
+            b[c] = b[c].replace(rcs, ' ');
+            // The customizer requires postMessage and CORS (if the site is cross domain)
+            b[c] += (window.postMessage && request ? ' ' : ' no-') + cs;
+        }());
+    </script>
+    <!--<![endif]-->
+</body>
+
+</html>

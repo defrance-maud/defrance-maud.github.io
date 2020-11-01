@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-{{< img src="image15.jpg" alt="illustration" >}}
+{{< img src="images/image15.jpg" alt="illustration" >}}
 
 Diététicienne nutritionniste depuis 2008, je vous accueille dans mon cabinet à Blain et également en téléconsultation.
 

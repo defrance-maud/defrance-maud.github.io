@@ -7,7 +7,7 @@ menu:
     weight: 2
 ---
 
-{{< img src="image14.jpg" alt="illustration" >}}
+{{< img src="images/image14.jpg" alt="illustration" >}}
 
 Consultations de suivis (environ 30-45 minutes) : 28 euros.
 

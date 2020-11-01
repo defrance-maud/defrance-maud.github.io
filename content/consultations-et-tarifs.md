@@ -3,7 +3,7 @@ title: "Consultations et tarifs"
 menu:
   main:
     name: "Consultations"
-    url: "/consultations-et-tarifs"
+    url: "/consultations-et-tarifs/"
     weight: 2
 ---
 

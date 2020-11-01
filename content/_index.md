@@ -6,13 +6,6 @@ menu:
     url: "/"
     weight: 1
 ---
-## Information COVID 19 :
-
-Les consultations sont assurées au cabinet, dans le respect des règles sanitaires.
-
-La téléconsultation est également possible.
-
-Choisir le motif « consultations, examens et soins » sur votre attestation de déplacement dérogatoire.
 
 {{< figure 
     src="/images/image15-1024x683-1024x683.jpg"

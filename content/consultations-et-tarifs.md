@@ -6,15 +6,8 @@ menu:
     url: "/consultations-et-tarifs"
     weight: 2
 ---
-{{< figure 
-    src="/images/image14-1024x683-1024x683.jpg"
-    class="aligncenter size-large"
-    alt="illustration"
-    srcset="/images/image14-1024x683.jpg 1024w, /images/image14-1024x683-300x200.jpg 300w, /images/image14-1024x683-768x512.jpg 768w"
-    sizes="(max-width: 750px) 100vw, 750px"
-    width="750"
-    height="500"
->}}
+
+{{< img src="image14.jpg" alt="illustration" >}}
 
 Consultations de suivis (environ 30-45 minutes) : 28 euros.
 

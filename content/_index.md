@@ -7,15 +7,7 @@ menu:
     weight: 1
 ---
 
-{{< figure 
-    src="/images/image15-1024x683-1024x683.jpg"
-    class="aligncenter wp-image-12 size-large"
-    alt="illustration"
-    srcset="/images/image15-1024x683.jpg 1024w, /images/image15-1024x683-300x200.jpg 300w, /images/image15-1024x683-768x512.jpg 768w"
-    sizes="(max-width: 750px) 100vw, 750px"
-    width="750"
-    height="500"
->}}
+{{< img src="image15.jpg" alt="illustration" >}}
 
 Diététicienne nutritionniste depuis 2008, je vous accueille dans mon cabinet à Blain et également en téléconsultation.
 

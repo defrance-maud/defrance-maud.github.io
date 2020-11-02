@@ -86,8 +86,12 @@
                     <aside class="widget">
                         <h3 class="widget-title">Me contacter</h3>
                         <ul>
-                            <li class="cat-item"><a href="#" id="displayNum">Afficher le numéro</a></li>
-                            <li class="cat-item"><a href="#" id="displayMail">Afficher le courriel</a></li>
+                            <li class="cat-item"><a id="displayNum"
+                                    href="https://www.pagesjaunes.fr/pros/detail?bloc_id=FCP56201310700001C0001">Afficher
+                                    le numéro</a></li>
+                            <li class="cat-item"><a id="displayMail"
+                                    href="https://www.pagesjaunes.fr/pros/detail?bloc_id=FCP56201310700001C0001">Afficher
+                                    le courriel</a></li>
                             <li class="cat-item">
                                 <a href="https://www.pagesjaunes.fr/pros/detail?bloc_id=FCP56201310700001C0001"
                                     target="_blank">Prenez rendez-vous</a>
@@ -114,23 +118,6 @@
         {{ end }}
     </div>
 
-    <!--[if lte IE 8]>
-		<script type="text/javascript">
-			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
-		</script>
-	<![endif]-->
-    <!--[if gte IE 9]><!-->
-    <script type="text/javascript">
-        (function () {
-            var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?' + cs + '(\\s+|$)');
-
-            request = true;
-
-            b[c] = b[c].replace(rcs, ' ');
-            // The customizer requires postMessage and CORS (if the site is cross domain)
-            b[c] += (window.postMessage && request ? ' ' : ' no-') + cs;
-        }());
-    </script>
     <!--<![endif]-->
     <script type="text/javascript" src="/assets/data.js" defer async></script>
 </body>

@@ -1,6 +1,6 @@
 {{ $pageTitle := .Title }}
 <article class="post posts-list">
-    {{ partial "post/header.html" .}}
+    {{ partial "post/header.html" (dict "context" . "mainHeader" true) }}
 
     <div class="post-content cf">
         <p>{{ .Description }}</p>
@@ -10,5 +10,5 @@
         {{ .Content }}
     </div>
 
-    {{ partial "post/footer.html" .}}
+    {{ partial "post/footer.html" . }}
 </article>

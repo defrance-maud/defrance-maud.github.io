@@ -1,7 +1,7 @@
 {{ $pageLink := .Permalink }}
 {{ $pageTitle := .Title }}
 <article class="post posts-list">
-    {{ partial "post/header.html" .}}
+    {{ partial "post/header.html" (dict "context" .) }}
 
     <div class="post-content cf">
         <p>{{ .Description }}</p>
@@ -11,5 +11,5 @@
         <div class="post-readmore"> <a href="{{ .Permalink }}" class="more-link">Voir la recette</a></div>
     </div>
 
-    {{ partial "post/footer.html" .}}
+    {{ partial "post/footer.html" . }}
 </article>

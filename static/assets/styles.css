@@ -852,10 +852,6 @@ body.page {
 }
 
 .post .post-date span {
-    display: block;
-    position: relative;
-    line-height: 1.2;
-    top: 12px;
     font-style: italic;
     color: #fff;
 }

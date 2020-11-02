@@ -2,20 +2,22 @@
 {{ range .Pages }}
 {{ $pageLink := .Permalink }}
 {{ $pageTitle := .Title }}
-<article class="page type-page status-publish hentry post post-single">
+<article class="post posts-list">
     <header class="post-header cf">
-        <h1 class="post-title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </h1>
+        <time class="post-date updated" datetime="{{ .Date }}" title="{{ .Date.Format "02/01/2006" }}">
+            <span>{{ .Date.Format "02/01" }}</span>
+        </time>
+
+        <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     </header>
 
     <div class="post-content cf">
-        {{ .Date.Format "02/01/2006" }} - {{ .Description }}
+        <p>{{ .Description }}</p>
         {{ range .Resources }}
         <a href="{{ $pageLink }}"><img src="{{ .RelPermalink }}" alt="{{ $pageTitle }}"></a>
         {{ end }}
+        <div class="post-readmore"> <a href="{{ .Permalink }}" class="more-link">Voir la recette</a></div>
     </div>
-
 </article>
 {{ end }}
 {{ end }}

@@ -1,3 +1,18 @@
+{{ define "aside"}}
+<aside class="widget_text widget widget_custom_html cf">
+    <h3 class="widget-title">Catégories</h3>
+    <div class="textwidget custom-html-widget">
+        <ul>
+            {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+            <li class="cat-item">
+                <a href="/categories/{{ $name | urlize}}/">{{ $name }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</aside>
+{{ end }}
+
 {{ define "main" }}
 {{ range .Pages }}
 {{ $pageLink := .Permalink }}

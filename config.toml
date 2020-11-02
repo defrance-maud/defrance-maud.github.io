@@ -1,4 +1,4 @@
-baseURL = "https://dieteticienne-nutritionniste-blain-nantes.fr/"
+baseURL = "https://defrance-maud.github.io/"
 languageCode = "fr-fr"
 title = "Maud DEFRANCE - Dieteticienne nutritionniste"
 disableKinds = ["taxonomy", "taxonomyTerm"]

@@ -14,35 +14,5 @@
 {{ end }}
 
 {{ define "main" }}
-{{ $pageTitle := .Title }}
-<article class="post posts-list">
-    <header class="post-header cf">
-        <time class="post-date updated" datetime="{{ .Date }}" title="{{ .Date.Format "02/01/2006" }}">
-            <span>{{ .Date.Format "02/01" }}</span>
-        </time>
-
-        <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    </header>
-
-    <div class="post-content cf">
-        <p>{{ .Description }}</p>
-        {{ range .Resources }}
-        <img src="{{ .RelPermalink }}" alt="{{ $pageTitle }}">
-        {{ end }}
-        {{ .Content }}
-    </div>
-
-    <footer class="post-footer">
-        <div class="post-footer-wrap cf">
-            <div class="post-taxonomy">
-                <div class="post-tags">
-                    <span>Catégories</span>
-                    {{ range .Params.categories }}
-                    <a href="/categories/{{ . | urlize}}">{{ . }}</a>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-    </footer>
-</article>
+{{ partial "post/detail.html" . }}
 {{ end}}

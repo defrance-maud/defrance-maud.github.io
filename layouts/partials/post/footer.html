@@ -1,0 +1,12 @@
+<footer class="post-footer">
+    <div class="post-footer-wrap cf">
+        <div class="post-taxonomy">
+            <div class="post-tags">
+                <span>Catégories</span>
+                {{ range .Params.categories }}
+                <a href="/categories/{{ . | urlize}}/">{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</footer>

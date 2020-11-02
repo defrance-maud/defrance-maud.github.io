@@ -1,0 +1,15 @@
+{{ $pageLink := .Permalink }}
+{{ $pageTitle := .Title }}
+<article class="post posts-list">
+    {{ partial "post/header.html" .}}
+
+    <div class="post-content cf">
+        <p>{{ .Description }}</p>
+        {{ range .Resources }}
+        <a href="{{ $pageLink }}"><img src="{{ .RelPermalink }}" alt="{{ $pageTitle }}"></a>
+        {{ end }}
+        <div class="post-readmore"> <a href="{{ .Permalink }}" class="more-link">Voir la recette</a></div>
+    </div>
+
+    {{ partial "post/footer.html" .}}
+</article>

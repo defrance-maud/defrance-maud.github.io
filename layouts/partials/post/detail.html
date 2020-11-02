@@ -1,0 +1,14 @@
+{{ $pageTitle := .Title }}
+<article class="post posts-list">
+    {{ partial "post/header.html" .}}
+
+    <div class="post-content cf">
+        <p>{{ .Description }}</p>
+        {{ range .Resources }}
+        <img src="{{ .RelPermalink }}" alt="{{ $pageTitle }}">
+        {{ end }}
+        {{ .Content }}
+    </div>
+
+    {{ partial "post/footer.html" .}}
+</article>

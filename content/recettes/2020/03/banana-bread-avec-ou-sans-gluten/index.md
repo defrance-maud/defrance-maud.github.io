@@ -2,6 +2,7 @@
 title: "Banana Bread Avec Ou Sans Gluten"
 date: 2020-03-19T13:37:00+01:00
 description: "Pour le petit déjeuner"
+categories: ['petit déjeuner', 'sans gluten', 'sans lactose']
 ---
 Ingrédients 
 - 3 bananes mures

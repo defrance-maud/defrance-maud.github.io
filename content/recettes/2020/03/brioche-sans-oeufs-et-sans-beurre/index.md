@@ -2,6 +2,7 @@
 title: "Brioche Sans Oeufs Et Sans Beurre"
 date: 2020-03-19T13:47:00
 description: "Très bonne brioche, texture superbe"
+categories: ['petit déjeuner', 'goûter', 'enfant']
 ---
 Vu sur le blog de perle en sucre.
 

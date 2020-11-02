@@ -58,7 +58,7 @@
 
                 <div class="sidebar">
                     {{ block "aside" . }}
-                    <aside id="wunderful_widget_profile-2" class="widget wunderful_widget_profile cf">
+                    <aside class="widget">
                         <h3 class="widget-title">A propos</h3>
                         <div class="profile-widget">
                             <img src="/images/dieteticienne-nutritionniste-blain-Maud-Defrance.png"
@@ -71,32 +71,28 @@
                                 à Blain et également en téléconsultation.</div>
                         </div>
                     </aside>
-                    <aside id="custom_html-3" class="widget_text widget widget_custom_html cf">
+                    <aside class="widget">
                         <h3 class="widget-title">Cabinet</h3>
-                        <div class="textwidget custom-html-widget">
-                            <ul>
-                                <li class="cat-item"><a
-                                        href="https://www.google.fr/maps/place/13+Avenue+de+la+Gare,+44130+Blain/"
-                                        target="_blank">13 Avenue de la Gare<br>44130 Blain <img
-                                            src="/images/directions.png" title="Itinéraire"></a></li>
-                            </ul>
-                        </div>
+                        <ul>
+                            <li class="cat-item">
+                                <a href="https://www.google.fr/maps/place/13+Avenue+de+la+Gare,+44130+Blain/"
+                                    target="_blank">
+                                    13 Avenue de la Gare<br>44130 Blain
+                                    <img src="/images/directions.png" title="Itinéraire">
+                                </a>
+                            </li>
+                        </ul>
                     </aside>
-                    <div id="undefined-sticky-wrapper" class="sticky-wrapper" style="height: 142px;">
-                        <div class="sticky-sidebar">
-                            <aside id="custom_html-2" class="widget_text widget widget_custom_html cf">
-                                <h3 class="widget-title">Me contacter</h3>
-                                <div class="textwidget custom-html-widget">
-                                    <ul>
-                                        <li class="cat-item">07 82 35 72 20</li>
-                                        <li class="cat-item"><a
-                                                href="https://www.pagesjaunes.fr/pros/detail?bloc_id=FCP56201310700001C0001"
-                                                target="_blank">Prenez rendez-vous</a></li>
-                                    </ul>
-                                </div>
-                            </aside>
-                        </div>
-                    </div>
+                    <aside class="widget">
+                        <h3 class="widget-title">Me contacter</h3>
+                        <ul>
+                            <li class="cat-item">07 82 35 72 20</li>
+                            <li class="cat-item">
+                                <a href="https://www.pagesjaunes.fr/pros/detail?bloc_id=FCP56201310700001C0001"
+                                    target="_blank">Prenez rendez-vous</a>
+                            </li>
+                        </ul>
+                    </aside>
                     {{ end }}
                 </div>
 

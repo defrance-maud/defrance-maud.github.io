@@ -1,17 +1,20 @@
 {{ define "main" }}
 {{ $pageTitle := .Title }}
-<article class="page type-page status-publish hentry post post-single">
+<article class="post posts-list">
     <header class="post-header cf">
-        <h1 class="post-title">{{ .Title }}</h1>
-    </header>
-    Publiée le {{ .Date.Format "02/01/2006" }}
-    <div class="post-content cf">
-        {{ range .Resources }}
-        <img src="{{ .RelPermalink }}" alt="{{ $pageTitle }}"></a>
-        {{ end }}
+        <time class="post-date updated" datetime="{{ .Date }}" title="{{ .Date.Format "02/01/2006" }}">
+            <span>{{ .Date.Format "02/01" }}</span>
+        </time>
 
+        <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    </header>
+
+    <div class="post-content cf">
+        <p>{{ .Description }}</p>
+        {{ range .Resources }}
+        <img src="{{ .RelPermalink }}" alt="{{ $pageTitle }}">
+        {{ end }}
         {{ .Content }}
     </div>
-
 </article>
 {{ end}}

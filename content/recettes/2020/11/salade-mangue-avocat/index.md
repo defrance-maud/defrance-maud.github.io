@@ -1,6 +1,6 @@
 ---
 title: "Salade mangue avocat"
-date: 2020-11-11T13:37:00+01:00
+date: 2020-11-14
 description: "Une salade colorée et vitaminée"
 categories: ['plat', 'légumes']
 ---

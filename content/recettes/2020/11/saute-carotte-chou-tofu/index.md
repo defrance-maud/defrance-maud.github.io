@@ -1,6 +1,6 @@
 ---
 title: "Sauté carottes chou et tofu"
-date: 2020-11-11T13:37:00+01:00
+date: 2020-11-14
 description: "Plat asiatique à savourer"
 categories: ['plat', 'végétarien']
 ---

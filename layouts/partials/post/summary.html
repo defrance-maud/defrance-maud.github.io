@@ -4,10 +4,10 @@
     {{ partial "post/header.html" (dict "context" .) }}
 
     <div class="post-content cf">
-        <p>{{ .Description }}</p>
         {{ range .Resources }}
         <a href="{{ $pageLink }}"><img src="{{ .RelPermalink }}" alt="{{ $pageTitle }}"></a>
         {{ end }}
+        <p>{{ .Description }}</p>
         <div class="post-readmore"> <a href="{{ .Permalink }}" class="more-link">Voir la recette</a></div>
     </div>
 

@@ -3,7 +3,6 @@
     {{ partial "post/header.html" (dict "context" . "mainHeader" true) }}
 
     <div class="post-content cf">
-        <p>{{ .Description }}</p>
         {{ range .Resources }}
         <img src="{{ .RelPermalink }}" alt="{{ $pageTitle }}">
         {{ end }}

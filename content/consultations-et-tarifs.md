@@ -16,6 +16,7 @@ Bilan nutritionnel 1ère consultation (environ 1h15) : 45 euros.
 Autres prestations :
 - Bilan nutritionnel à deux : 60 euros
 - Suivi à deux : 35 euros
+- Suivi en ligne : 28 euros (45 euros 1ère consultation)
 
 Prestations entreprises type déclinaisons menus, corrections menus, interventions : me contacter pour un devis.
 

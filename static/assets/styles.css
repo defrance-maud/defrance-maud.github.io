@@ -987,7 +987,8 @@ body.page {
     text-decoration: none;
 }
 
-.pagination a:hover {
+.pagination a:hover,
+.pagination a.active {
     background: #B86982;
 }
 

@@ -9,7 +9,9 @@
     </header>
 </article>
 
-{{ range .Data.Pages }}
+{{ range .Paginator.Pages }}
 {{ partial "post/summary.html" . }}
 {{ end }}
+
+{{ partial "pagination.html" . }}
 {{ end}}

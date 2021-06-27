@@ -1014,19 +1014,18 @@ body.page {
     text-align: right;
     padding-right: 0 !important;
     padding-left: 30px;
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 .post-share a {
     display: inline-block;
     width: 40px;
     height: 40px;
-    line-height: 40px;
+    line-height: 30px;
     text-align: center;
     background: #121212;
     border-radius: 20px;
     color: #fff;
-    margin-top: 5px;
     margin-left: 2px;
 }
 

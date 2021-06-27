@@ -803,8 +803,8 @@ body.page {
  * Post
  */
 .post {
-    margin-bottom: 60px;
-    padding-bottom: 60px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
     position: relative;
 }
 
@@ -896,7 +896,17 @@ body.page {
 }
 
 .post .post-content p {
-    margin-bottom: 1.3em;
+    margin: 0.4em 0;
+}
+
+.post .post-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.post .post-content a,
+.post .post-content img {
+    align-self: center;
 }
 
 .post .featured-image {
@@ -1004,6 +1014,7 @@ body.page {
     text-align: right;
     padding-right: 0 !important;
     padding-left: 30px;
+    padding-top: 20px;
 }
 
 .post-share a {
@@ -1537,7 +1548,7 @@ body.page {
 }
 
 .posts-list li {
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
 .posts-list li img {
@@ -2422,4 +2433,30 @@ html.swipebox-html.swipebox-touch {
     font-size: 15px;
     line-height: 43px;
     font-family: Helvetica, Arial, sans-serif;
+}
+
+@media print {
+
+    .no-print,
+    .site-nav,
+    .sidebar,
+    .site-footer,
+    .post .post-date,
+    .post-content img {
+        display: none;
+    }
+
+    .site-content {
+        padding: 0;
+    }
+
+    .main-content {
+        margin-right: 0;
+    }
+
+    .post .post-date::before,
+    .post .post-date::after {
+        content: none;
+    }
+
 }

@@ -8,20 +8,20 @@
     <language>fr-fr</language>
     <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://defrance-maud.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>petit dejeuner</title>
-      <link>https://defrance-maud.github.io/categories/petit-dejeuner/</link>
+      <title>petit déjeuner</title>
+      <link>https://defrance-maud.github.io/categories/petit-d%C3%A9jeuner/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://defrance-maud.github.io/categories/petit-dejeuner/</guid>
+      <guid>https://defrance-maud.github.io/categories/petit-d%C3%A9jeuner/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sang gluten</title>
-      <link>https://defrance-maud.github.io/categories/sang-gluten/</link>
+      <title>sans gluten</title>
+      <link>https://defrance-maud.github.io/categories/sans-gluten/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://defrance-maud.github.io/categories/sang-gluten/</guid>
+      <guid>https://defrance-maud.github.io/categories/sans-gluten/</guid>
       <description></description>
     </item>
     
@@ -35,11 +35,11 @@
     </item>
     
     <item>
-      <title>legumes</title>
-      <link>https://defrance-maud.github.io/categories/legumes/</link>
+      <title>légumes</title>
+      <link>https://defrance-maud.github.io/categories/l%C3%A9gumes/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://defrance-maud.github.io/categories/legumes/</guid>
+      <guid>https://defrance-maud.github.io/categories/l%C3%A9gumes/</guid>
       <description></description>
     </item>
     
@@ -71,24 +71,6 @@
     </item>
     
     <item>
-      <title>petit déjeuner</title>
-      <link>https://defrance-maud.github.io/categories/petit-d%C3%A9jeuner/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://defrance-maud.github.io/categories/petit-d%C3%A9jeuner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>légumes</title>
-      <link>https://defrance-maud.github.io/categories/l%C3%A9gumes/</link>
-      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://defrance-maud.github.io/categories/l%C3%A9gumes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>végétarien</title>
       <link>https://defrance-maud.github.io/categories/v%C3%A9g%C3%A9tarien/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
@@ -103,15 +85,6 @@
       <pubDate>Thu, 19 Mar 2020 13:47:00 +0000</pubDate>
       
       <guid>https://defrance-maud.github.io/categories/enfant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sans gluten</title>
-      <link>https://defrance-maud.github.io/categories/sans-gluten/</link>
-      <pubDate>Thu, 19 Mar 2020 13:37:00 +0100</pubDate>
-      
-      <guid>https://defrance-maud.github.io/categories/sans-gluten/</guid>
       <description></description>
     </item>
     
@@ -157,15 +130,6 @@
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://defrance-maud.github.io/categories/go%C3%BBter-enfant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vegetarien</title>
-      <link>https://defrance-maud.github.io/categories/vegetarien/</link>
-      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://defrance-maud.github.io/categories/vegetarien/</guid>
       <description></description>
     </item>
     

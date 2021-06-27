@@ -1,5 +1,5 @@
 ---
-title: "&quot;slurps&quot; test"
+title: "\"slurps\" test"
 date: 2014-04-04
 description: ""
 categories: 

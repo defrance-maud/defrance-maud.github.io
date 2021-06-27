@@ -9,7 +9,22 @@
             </div>
         </div>
         <div class="post-share">
-            <div class="sharethis-inline-share-buttons" data-url="{{ .Permalink }}" data-title="{{ .Title }}"></div>
+            <a href="#partager" data-url="{{ .Permalink }}" data-title="{{ .Title }}" data-network="sharethis"
+                class="st-custom-button"><img alt="sharethis sharing button"
+                    src="https://platform-cdn.sharethis.com/img/sharethis.svg">
+            </a>
+            <a href="#pinterest" data-url="{{ .Permalink }}" data-title="{{ .Title }}" data-network="pinterest"
+                class="st-custom-button"><img alt="twitter sharing button"
+                    src="https://platform-cdn.sharethis.com/img/twitter.svg">
+            </a>
+            <a href="#facebook" data-url="{{ .Permalink }}" data-title="{{ .Title }}" data-network="facebook"
+                class="st-custom-button">
+                <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+            </a>
+            <a href="#imprimer" data-url="{{ .Permalink }}" data-title="{{ .Title }}" data-target="print"
+                class="st-custom-button">
+                <img alt="print sharing button" src="https://platform-cdn.sharethis.com/img/print.svg">
+            </a>
         </div>
     </div>
 </footer>

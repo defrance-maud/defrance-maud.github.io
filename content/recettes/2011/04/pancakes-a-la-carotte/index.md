@@ -2,7 +2,7 @@
 title: "pancakes à la carotte"
 date: 2011-04-01
 description: ""
-categories: ['plat', 'legumes']
+categories: ['plat', 'légumes']
 ---
 
           

@@ -2,7 +2,7 @@
 title: "soupe tomates et carottes"
 date: 2018-03-27
 description: ""
-categories: ['legumes', 'soupes']
+categories: ['légumes', 'soupes']
 ---
 
           

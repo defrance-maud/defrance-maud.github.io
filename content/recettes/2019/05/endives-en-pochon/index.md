@@ -2,7 +2,7 @@
 title: "Endives en pochon"
 date: 2019-05-16
 description: ""
-categories: ['diner', 'legumes', 'plat']
+categories: ['diner', 'légumes', 'plat']
 ---
 
           

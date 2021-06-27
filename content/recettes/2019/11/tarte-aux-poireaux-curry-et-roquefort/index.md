@@ -2,7 +2,7 @@
 title: "Tarte aux poireaux curry et roquefort "
 date: 2019-11-18
 description: ""
-categories: ['diner', 'feculents', 'legumes', 'plat', 'quiche, croque, cake', 'vegetarien']
+categories: ['diner', 'feculents', 'légumes', 'plat', 'quiche, croque, cake', 'végétarien']
 ---
 
           

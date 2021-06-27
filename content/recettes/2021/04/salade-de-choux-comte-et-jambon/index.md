@@ -2,7 +2,7 @@
 title: "Salade de choux comté et jambon"
 date: 2021-04-14
 description: ""
-categories: ['diner', 'legumes', 'plat', 'salade composee']
+categories: ['diner', 'légumes', 'plat', 'salade composee']
 ---
 
           

@@ -13,7 +13,7 @@
 		},
 		{
 			"label": "hugo server",
-			"detail": "build static files",
+			"detail": "serve static files",
 			"group": {
 				"kind": "test",
 				"isDefault": true

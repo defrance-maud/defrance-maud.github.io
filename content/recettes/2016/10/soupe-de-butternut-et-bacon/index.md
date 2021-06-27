@@ -2,7 +2,7 @@
 title: "soupe de butternut et bacon"
 date: 2016-10-27
 description: ""
-categories: ['soupes', 'legumes']
+categories: ['soupes', 'légumes']
 ---
 
           

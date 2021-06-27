@@ -2,7 +2,7 @@
 title: "Granola maison"
 date: 2021-04-29
 description: ""
-categories: ['Sang gluten', 'petit dejeuner']
+categories: ['Sans gluten', 'petit déjeuner']
 ---
 
           

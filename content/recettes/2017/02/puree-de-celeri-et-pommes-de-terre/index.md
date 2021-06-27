@@ -2,7 +2,7 @@
 title: "purée de céleri et pommes de terre"
 date: 2017-02-20
 description: ""
-categories: ['legumes', 'feculents']
+categories: ['légumes', 'feculents']
 ---
 
           

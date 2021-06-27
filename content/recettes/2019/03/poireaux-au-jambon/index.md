@@ -2,7 +2,7 @@
 title: "poireaux au jambon"
 date: 2019-03-26
 description: ""
-categories: ['plat', 'legumes']
+categories: ['plat', 'légumes']
 ---
 
           

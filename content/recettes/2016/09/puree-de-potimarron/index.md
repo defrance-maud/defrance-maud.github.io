@@ -2,7 +2,7 @@
 title: "purée de potimarron"
 date: 2016-09-20
 description: ""
-categories: ['legumes']
+categories: ['légumes']
 ---
 
           

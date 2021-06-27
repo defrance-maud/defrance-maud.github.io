@@ -2,7 +2,7 @@
 title: "rouleaux de printemps comté et saumon fumé"
 date: 2011-04-03
 description: ""
-categories: ['legumes', 'plat']
+categories: ['légumes', 'plat']
 ---
 
           

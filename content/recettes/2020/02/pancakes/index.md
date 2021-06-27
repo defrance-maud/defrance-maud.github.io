@@ -2,7 +2,7 @@
 title: "Pancakes "
 date: 2020-02-27
 description: ""
-categories: ['feculents', 'petit dejeuner']
+categories: ['feculents', 'petit déjeuner']
 ---
 
           

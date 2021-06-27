@@ -2,7 +2,7 @@
 title: "plat vegetarien carottes navets lentilles et riz"
 date: 2018-11-06
 description: ""
-categories: ['plat', 'vegetarien']
+categories: ['plat', 'végétarien']
 ---
 
           

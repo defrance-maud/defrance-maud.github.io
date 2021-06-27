@@ -2,7 +2,7 @@
 title: "potimaron farci aux champignons"
 date: 2018-11-05
 description: ""
-categories: ['legumes']
+categories: ['légumes']
 ---
 
           

@@ -2,7 +2,7 @@
 title: "gratin de choux fleur"
 date: 2017-02-16
 description: ""
-categories: ['legumes', 'plat']
+categories: ['légumes', 'plat']
 ---
 
           

@@ -2,7 +2,7 @@
 title: "Pancakes à la banane"
 date: 2019-05-21
 description: ""
-categories: ['dessert', 'petit dejeuner', 'Goûter enfant']
+categories: ['dessert', 'petit déjeuner', 'Goûter enfant']
 ---
 
               

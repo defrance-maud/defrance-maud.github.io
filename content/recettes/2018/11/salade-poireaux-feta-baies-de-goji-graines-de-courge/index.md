@@ -2,7 +2,7 @@
 title: "salade poireaux, feta, baies de goji, graines de courge"
 date: 2018-11-13
 description: ""
-categories: ['plat', 'vegetarien', 'legumes', 'salade composee']
+categories: ['plat', 'végétarien', 'légumes', 'salade composee']
 ---
 
           

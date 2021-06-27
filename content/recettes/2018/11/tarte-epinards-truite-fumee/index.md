@@ -2,7 +2,7 @@
 title: "tarte épinards, truite fumée"
 date: 2018-11-13
 description: ""
-categories: ['plat', 'legumes', 'quiche, croque, cake']
+categories: ['plat', 'légumes', 'quiche, croque, cake']
 ---
 
           

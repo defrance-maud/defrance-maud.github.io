@@ -1791,6 +1791,39 @@ body.page {
 }
 
 @media screen and (max-width: 1023px) {
+
+    .sidebar-sticked,
+    .sticky-wrapper {
+        height: auto !important;
+    }
+
+    .sidebar-sticked .sticky-sidebar {
+        position: relative !important;
+        width: 100%;
+        top: 0 !important;
+    }
+
+    .content-wrap,
+    .left-sidebar .content-wrap {
+        float: none;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .main-content,
+    .left-sidebar .main-content {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .sidebar {
+        margin-top: 40px;
+        width: 100%;
+        float: none;
+    }
+}
+
+@media screen and (max-width: 767px) {
     .nav-wrap {
         cursor: pointer;
     }
@@ -1850,38 +1883,6 @@ body.page {
         background: rgba(255, 255, 255, .1);
     }
 
-    .sidebar-sticked,
-    .sticky-wrapper {
-        height: auto !important;
-    }
-
-    .sidebar-sticked .sticky-sidebar {
-        position: relative !important;
-        width: 100%;
-        top: 0 !important;
-    }
-
-    .content-wrap,
-    .left-sidebar .content-wrap {
-        float: none;
-        margin-left: 0;
-        margin-right: 0;
-    }
-
-    .main-content,
-    .left-sidebar .main-content {
-        margin-left: 0;
-        margin-right: 0;
-    }
-
-    .sidebar {
-        margin-top: 40px;
-        width: 100%;
-        float: none;
-    }
-}
-
-@media screen and (max-width: 767px) {
     .site-wrap {
         max-width: 100%;
     }

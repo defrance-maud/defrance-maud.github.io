@@ -2434,14 +2434,27 @@ html.swipebox-html.swipebox-touch {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+.print-footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+@media screen {
+    .print-footer {
+        display: none;
+    }
+}
+
 @media print {
 
-    .no-print,
+    .site-header,
     .site-nav,
     .sidebar,
     .site-footer,
     .post .post-date,
-    .post-content img {
+    .post-content img,
+    .post-footer {
         display: none;
     }
 

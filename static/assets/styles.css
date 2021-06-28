@@ -424,9 +424,6 @@ a img.aligncenter {
     width: 100px;
 }
 
-.gallery-caption,
-.bypostauthor {}
-
 .gallery .gallery-item {
     display: inline-block;
     padding: 0;
@@ -1475,6 +1472,15 @@ body.page {
     color: #B86982;
 }
 
+/* Subscribe */
+.mc-field-group {
+    display: flex;
+}
+
+.mc-field-group button {
+    line-height: 0;
+}
+
 /* Profile */
 .profile-widget .profile-image {
     border-radius: 100px;
@@ -2455,7 +2461,8 @@ html.swipebox-html.swipebox-touch {
     .site-footer,
     .post .post-date,
     .post-content img,
-    .post-footer {
+    .post-footer,
+    .mc-modal {
         display: none;
     }
 

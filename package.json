@@ -1,0 +1,24 @@
+{
+  "name": "dieteticienne-nutritionniste-blain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "hugo server --buildDrafts",
+    "build": "hugo",
+    "clean": "hugo --cleanDestinationDir"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defrance-maud/defrance-maud.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defrance-maud/defrance-maud.github.io/issues"
+  },
+  "homepage": "https://github.com/defrance-maud/defrance-maud.github.io#readme"
+}

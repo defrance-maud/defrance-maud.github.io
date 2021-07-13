@@ -1,9 +1,8 @@
 ---
 title: "Tarte aux blettes"
-date: 2021-07-12
+date: 2021-07-13
 description: ""
 categories: ['légumes']
-draft: true
 ---
 
 Ingrédients :
@@ -23,8 +22,8 @@ Lorsque la texture est sableuse, rajouter un peu d'eau pour former une boule.
 Préchauffer le four à 210°C.
 Etaler la pâte dans un moule, piquer le fond à l'aide d'une fourchette et précuire 10 minutes.
 
-Laver les blettes. Couper en morceaux les ??? et les cuire au cuit-vapeur 10 minutes.
-Puis couper les feuilles en lamelles et une fois la cuisson des ??? terminée, cuire 10 minutes supplémentaire.
+Laver les blettes. Couper en morceaux les tiges et les cuire au cuit-vapeur 10 minutes.
+Une fois la cuisson des tiges terminée, ajouter les feuilles coupées en lamelles et cuire 10 minutes supplémentaires.
 
 Dans un saladier, battre les oeufs, la crème, le lait, le comté rapé, sel poivre. Ajouter les blettes.
 Cuire 30 minutes environs à 210°C.

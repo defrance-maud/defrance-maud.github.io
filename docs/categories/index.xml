@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Maud DEFRANCE - Dieteticienne nutritionniste</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://diet-blain.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://diet-blain.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>légumes</title>
+      <link>https://diet-blain.net/categories/l%C3%A9gumes/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://diet-blain.net/categories/l%C3%A9gumes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>petit déjeuner</title>
       <link>https://diet-blain.net/categories/petit-d%C3%A9jeuner/</link>
@@ -31,15 +40,6 @@
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://diet-blain.net/categories/diner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>légumes</title>
-      <link>https://diet-blain.net/categories/l%C3%A9gumes/</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://diet-blain.net/categories/l%C3%A9gumes/</guid>
       <description></description>
     </item>
     

@@ -9,6 +9,7 @@
   "scripts": {
     "start": "hugo server --buildDrafts",
     "build": "hugo",
+    "build:dev": "hugo -D",
     "clean": "hugo --cleanDestinationDir"
   },
   "repository": {

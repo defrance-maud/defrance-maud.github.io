@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "hugo server --buildDrafts",
+    "start": "hugo server -D",
     "build": "hugo",
     "build:dev": "hugo -D",
     "clean": "hugo --cleanDestinationDir"

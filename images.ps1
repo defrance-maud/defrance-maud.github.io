@@ -21,7 +21,7 @@ $items | %{
 	        height = $image.Height
 		    width = $image.Width
 		    megapixels = ($image.Height * $image.Width)/1000/1000
-		    megabytes = (($_.Length)/1024)/1024
+		    megabytes = [Math]::Round((($_.Length)/1024)/1024, 2)
 		    name = $_.Name
 		    fullname = $_.Fullname
 		    date = $_.LastWriteTime

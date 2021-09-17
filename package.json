@@ -10,6 +10,7 @@
     "start": "hugo server -D",
     "build": "hugo",
     "build:dev": "hugo -D",
+    "list": "hugo list drafts",
     "clean": "hugo --cleanDestinationDir"
   },
   "repository": {

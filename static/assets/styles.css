@@ -2447,6 +2447,37 @@ html.swipebox-html.swipebox-touch {
     right: 0;
 }
 
+#doctolib {
+    display: block;
+    text-align: center;
+    background-color: #0596DE;
+    color: #ffffff;
+    font-size: 14px;
+    overflow: hidden;
+    width: 257px;
+    height: 40px;
+    border-bottom-right-radius: none;
+    border-bottom-left-radius: none;
+    position: fixed;
+    bottom: 0;
+    right: 5px;
+    z-index: 1000;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    line-height: 40px;
+}
+
+#doctolib span {
+    font-size: 13px;
+}
+
+#doctolib img {
+    height: 15px;
+    margin-bottom: 3px;
+    vertical-align: middle;
+    width: auto;
+}
+
 @media screen {
     .print-footer {
         display: none;

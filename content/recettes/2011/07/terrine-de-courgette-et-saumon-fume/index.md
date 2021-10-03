@@ -2,7 +2,7 @@
 title: "terrine de courgette et saumon fumé"
 date: 2011-07-06
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

@@ -1,12 +1,9 @@
 ---
-title: "Muffin au chocolat "
+title: "Muffin au chocolat"
 date: 2019-05-16
 description: ""
 categories: ['dessert']
 ---
-
-          
-
 
 Ingr&eacute;dients&nbsp;pour 6 muffins&nbsp;
 

@@ -2,7 +2,7 @@
 title: "brochettes de poulet marinées"
 date: 2011-07-10
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

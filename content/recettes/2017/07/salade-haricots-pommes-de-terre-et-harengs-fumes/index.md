@@ -2,7 +2,7 @@
 title: "salade haricots, pommes de terre et harengs fumés"
 date: 2017-07-10
 description: ""
-categories: ['salade composee']
+categories: ['salade composee', 'plat']
 ---
 
           

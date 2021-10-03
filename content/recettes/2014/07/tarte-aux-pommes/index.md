@@ -2,7 +2,7 @@
 title: "tarte aux pommes"
 date: 2014-07-25
 description: ""
-categories: 
+categories: ['dessert']
 ---
 
           

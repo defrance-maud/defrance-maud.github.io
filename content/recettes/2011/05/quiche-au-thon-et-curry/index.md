@@ -2,7 +2,7 @@
 title: "quiche au thon et curry"
 date: 2011-05-09
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

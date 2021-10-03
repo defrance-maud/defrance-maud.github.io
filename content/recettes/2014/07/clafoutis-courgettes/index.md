@@ -2,7 +2,7 @@
 title: "CLAFOUTIS COURGETTES"
 date: 2014-07-28
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

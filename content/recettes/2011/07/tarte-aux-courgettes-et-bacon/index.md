@@ -2,7 +2,7 @@
 title: "tarte aux courgettes et bacon"
 date: 2011-07-03
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

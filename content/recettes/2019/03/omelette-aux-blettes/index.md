@@ -2,7 +2,7 @@
 title: "omelette aux blettes"
 date: 2019-03-26
 description: ""
-categories: ['plat', 'légumes', 'sans gluten']
+categories: ['plat', 'légumes']
 ---
 
           

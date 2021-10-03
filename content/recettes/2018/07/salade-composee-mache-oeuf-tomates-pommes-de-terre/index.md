@@ -2,7 +2,7 @@
 title: "salade composée (mache, oeuf, tomates, pommes de terre)"
 date: 2018-07-10
 description: ""
-categories: ['salade composee']
+categories: ['salade composee', 'plat']
 ---
 
           

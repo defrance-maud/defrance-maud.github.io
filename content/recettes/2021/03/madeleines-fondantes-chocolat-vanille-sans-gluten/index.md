@@ -2,7 +2,7 @@
 title: "Madeleines fondantes chocolat vanille sans gluten "
 date: 2021-03-29
 description: ""
-categories: 
+categories: ['goûter']
 ---
 
           

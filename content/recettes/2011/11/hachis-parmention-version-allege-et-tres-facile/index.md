@@ -2,7 +2,7 @@
 title: "hachis parmention version allégé et très facile"
 date: 2011-11-10
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

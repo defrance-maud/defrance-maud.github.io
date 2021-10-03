@@ -2,7 +2,7 @@
 title: "Crème chocolat au lait de coco "
 date: 2019-12-19
 description: ""
-categories: ['sans gluten', 'végétarien', 'Sans lactose', 'dessert']
+categories: ['sans gluten', 'Sans lactose', 'dessert']
 ---
 
               

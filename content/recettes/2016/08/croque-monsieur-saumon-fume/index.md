@@ -2,7 +2,7 @@
 title: "croque monsieur saumon fumé"
 date: 2016-08-23
 description: ""
-categories: ['quiche, croque, cake', 'plat']
+categories: ['plat']
 ---
 
           

@@ -2,7 +2,7 @@
 title: "crumble aux pommes"
 date: 2011-05-05
 description: ""
-categories: 
+categories: ['dessert']
 ---
 
           

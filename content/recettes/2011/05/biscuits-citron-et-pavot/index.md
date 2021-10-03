@@ -2,7 +2,7 @@
 title: "biscuits citron et pavot"
 date: 2011-05-12
 description: ""
-categories: 
+categories: ['goûter']
 ---
 
           

@@ -2,7 +2,7 @@
 title: "brocolis à la béchamel allégée"
 date: 2011-04-21
 description: ""
-categories: 
+categories: ['plat', 'légumes']
 ---
 
           

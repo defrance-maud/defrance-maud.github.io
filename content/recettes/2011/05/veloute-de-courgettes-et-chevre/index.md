@@ -2,7 +2,7 @@
 title: "velouté de courgettes et chèvre"
 date: 2011-05-02
 description: ""
-categories: 
+categories: ['soupes', 'légumes']
 ---
 
           

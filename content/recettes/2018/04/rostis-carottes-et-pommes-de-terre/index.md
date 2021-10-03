@@ -2,7 +2,7 @@
 title: "rostis carottes et pommes de terre"
 date: 2018-04-09
 description: ""
-categories: ['légumes', 'feculents']
+categories: ['légumes', 'plat']
 ---
 
           

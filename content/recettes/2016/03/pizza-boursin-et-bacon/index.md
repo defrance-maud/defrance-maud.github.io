@@ -2,7 +2,7 @@
 title: "pizza boursin et bacon"
 date: 2016-03-24
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

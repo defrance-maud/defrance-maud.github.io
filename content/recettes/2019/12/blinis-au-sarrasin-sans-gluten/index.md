@@ -2,7 +2,7 @@
 title: "Blinis au sarrasin sans gluten"
 date: 2019-12-19
 description: ""
-categories: ['aperitif', 'sans gluten', 'Sans lactose']
+categories: ['apéritif', 'sans gluten', 'Sans lactose']
 ---
 
               

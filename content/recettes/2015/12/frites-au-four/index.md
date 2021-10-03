@@ -2,7 +2,7 @@
 title: "frites au four"
 date: 2015-12-11
 description: ""
-categories: ['feculents']
+categories: ['plat']
 ---
 
           

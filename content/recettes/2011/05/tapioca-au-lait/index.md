@@ -2,7 +2,7 @@
 title: "tapioca au lait"
 date: 2011-05-08
 description: ""
-categories: 
+categories: ['dessert']
 ---
 
           

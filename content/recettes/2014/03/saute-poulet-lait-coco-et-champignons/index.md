@@ -2,7 +2,7 @@
 title: "sauté poulet lait coco et champignons"
 date: 2014-03-20
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

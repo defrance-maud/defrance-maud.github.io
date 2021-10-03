@@ -2,7 +2,7 @@
 title: "fondant pomme poire"
 date: 2011-11-14
 description: ""
-categories: 
+categories: ['dessert']
 ---
 
           

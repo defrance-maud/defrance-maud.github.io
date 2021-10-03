@@ -2,7 +2,7 @@
 title: "courge spaguettis à la bolognaise"
 date: 2016-11-15
 description: ""
-categories: ['plat']
+categories: ['plat', 'légumes']
 ---
 
           

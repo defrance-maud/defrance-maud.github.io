@@ -2,11 +2,9 @@
 title: "Pâte brisée au fromage blanc"
 date: 2019-11-18
 description: ""
-categories: ['feculents', 'diner']
+categories: ['pâte à tarte']
 ---
 
-              
-                              
 Ingr&eacute;dients&nbsp;
 
 200 g de farine&nbsp;

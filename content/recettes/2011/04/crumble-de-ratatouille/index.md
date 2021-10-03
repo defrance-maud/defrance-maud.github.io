@@ -2,7 +2,7 @@
 title: "crumble de ratatouille"
 date: 2011-04-28
 description: ""
-categories: 
+categories: ['plat', 'légumes']
 ---
 
           

@@ -2,7 +2,7 @@
 title: "petit écart : fondant poire chocolat"
 date: 2014-08-01
 description: ""
-categories: 
+categories: ['dessert']
 ---
 
           

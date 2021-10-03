@@ -2,7 +2,7 @@
 title: "salade endives,mache, roquefort et bacon"
 date: 2016-01-14
 description: ""
-categories: 
+categories: ['plat', 'salade composee']
 ---
 
           

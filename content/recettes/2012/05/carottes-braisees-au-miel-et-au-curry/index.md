@@ -2,7 +2,7 @@
 title: "carottes braisées au miel et au curry"
 date: 2012-05-02
 description: ""
-categories: 
+categories: ['plat', 'légumes']
 ---
 
           

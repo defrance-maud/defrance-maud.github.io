@@ -2,7 +2,7 @@
 title: "pizza wrap champignons, creme et jambon"
 date: 2017-09-08
 description: ""
-categories: ['plat', 'quiche, croque, cake']
+categories: ['plat']
 ---
 
           

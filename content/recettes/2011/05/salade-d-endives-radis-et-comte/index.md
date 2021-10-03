@@ -2,7 +2,7 @@
 title: "salade d'endives, radis et comté"
 date: 2011-05-22
 description: ""
-categories: 
+categories: ['salade composee', 'légumes', 'plat']
 ---
 
           

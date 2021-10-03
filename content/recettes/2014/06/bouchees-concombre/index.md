@@ -2,7 +2,7 @@
 title: "bouchees concombre"
 date: 2014-06-19
 description: ""
-categories: 
+categories: ['apéritif']
 ---
 
           

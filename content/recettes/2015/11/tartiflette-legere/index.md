@@ -2,7 +2,7 @@
 title: "tartiflette légère"
 date: 2015-11-09
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

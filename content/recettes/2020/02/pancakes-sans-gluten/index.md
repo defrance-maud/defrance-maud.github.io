@@ -2,12 +2,8 @@
 title: "Pancakes sans gluten "
 date: 2020-02-27
 description: ""
-categories: ['Sans lactose', 'Sans gluten', 'feculents', 'petit déjeuner']
+categories: ['Sans lactose', 'Sans gluten', 'petit déjeuner']
 ---
-
-          
-
-
 Ingr&eacute;dients pour 16 pancakes
 
 100 g de farine de riz

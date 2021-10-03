@@ -2,7 +2,7 @@
 title: "gratin dauphinois"
 date: 2014-04-01
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

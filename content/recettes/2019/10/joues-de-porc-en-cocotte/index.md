@@ -2,7 +2,7 @@
 title: "Joues de porc en cocotte"
 date: 2019-10-21
 description: ""
-categories: ['plat', 'viande']
+categories: ['plat']
 ---
 
               

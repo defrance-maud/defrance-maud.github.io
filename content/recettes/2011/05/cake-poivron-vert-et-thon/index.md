@@ -2,7 +2,7 @@
 title: "cake poivron vert et thon"
 date: 2011-05-15
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

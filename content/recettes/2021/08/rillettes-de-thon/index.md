@@ -2,8 +2,7 @@
 title: "Rillettes de thon"
 date: 2021-08-18
 description: ""
-categories: ['aperitif', 'sans gluten', 'sans lactose']
-draft: true
+categories: ['apéritif', 'sans gluten', 'sans lactose']
 ---
 
 Ingrédients :

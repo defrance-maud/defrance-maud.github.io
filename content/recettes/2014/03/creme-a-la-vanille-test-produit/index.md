@@ -2,7 +2,7 @@
 title: "crème à la vanille (test produit)"
 date: 2014-03-13
 description: ""
-categories: 
+categories: ['dessert']
 ---
 
           

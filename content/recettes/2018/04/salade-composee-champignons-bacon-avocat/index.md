@@ -2,7 +2,7 @@
 title: "salade composée champignons, bacon, avocat"
 date: 2018-04-02
 description: ""
-categories: ['salade composee']
+categories: ['salade composee', 'plat']
 ---
 
           

@@ -2,7 +2,7 @@
 title: "soupe de fraises"
 date: 2011-05-18
 description: ""
-categories: 
+categories: ['dessert']
 ---
 
           

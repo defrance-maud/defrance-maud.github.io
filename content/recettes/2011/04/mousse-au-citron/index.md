@@ -2,7 +2,7 @@
 title: "mousse au citron"
 date: 2011-04-25
 description: ""
-categories: 
+categories: ['dessert']
 ---
 
           

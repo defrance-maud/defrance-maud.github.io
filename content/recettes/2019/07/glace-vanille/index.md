@@ -2,7 +2,7 @@
 title: "Glace vanille"
 date: 2019-07-10
 description: ""
-categories: ['Goûter enfant', 'dessert']
+categories: ['dessert']
 ---
 
           

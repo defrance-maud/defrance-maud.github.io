@@ -2,7 +2,7 @@
 title: "Tarte aux fraises"
 date: 2021-04-29
 description: ""
-categories: 
+categories: ['dessert']
 ---
 
           

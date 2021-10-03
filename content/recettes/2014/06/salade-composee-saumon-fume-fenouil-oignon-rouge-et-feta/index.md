@@ -2,7 +2,7 @@
 title: "salade composée saumon fumé, fenouil, oignon rouge et féta"
 date: 2014-06-19
 description: ""
-categories: 
+categories: ['plat', 'salade composee']
 ---
 
           

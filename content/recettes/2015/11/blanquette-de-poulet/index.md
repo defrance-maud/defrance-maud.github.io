@@ -2,7 +2,7 @@
 title: "blanquette de poulet"
 date: 2015-11-09
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

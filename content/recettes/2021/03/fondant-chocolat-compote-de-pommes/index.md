@@ -2,7 +2,7 @@
 title: "Fondant chocolat compote de pommes"
 date: 2021-03-29
 description: ""
-categories: 
+categories: ['dessert']
 ---
 
               

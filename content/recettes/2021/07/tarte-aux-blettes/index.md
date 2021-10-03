@@ -2,7 +2,7 @@
 title: "Tarte aux blettes"
 date: 2021-07-13
 description: ""
-categories: ['légumes']
+categories: ['légumes', 'plat']
 ---
 
 Ingrédients :

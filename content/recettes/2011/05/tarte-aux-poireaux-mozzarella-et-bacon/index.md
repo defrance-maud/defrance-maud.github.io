@@ -2,7 +2,7 @@
 title: "tarte aux poireaux, mozzarella et bacon"
 date: 2011-05-27
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

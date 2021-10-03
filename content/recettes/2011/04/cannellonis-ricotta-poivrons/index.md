@@ -2,7 +2,7 @@
 title: "cannellonis ricotta-poivrons"
 date: 2011-04-14
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

@@ -2,7 +2,7 @@
 title: "quiche lorraine légère"
 date: 2014-05-16
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

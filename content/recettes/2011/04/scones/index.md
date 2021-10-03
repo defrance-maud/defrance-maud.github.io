@@ -2,7 +2,7 @@
 title: "scones"
 date: 2011-04-18
 description: ""
-categories: 
+categories: ['petit déjeuner']
 ---
 
           

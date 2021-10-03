@@ -2,8 +2,7 @@
 title: "Blinis de courgette"
 date: 2021-08-18
 description: ""
-categories: ['aperitif', 'légumes']
-draft: true
+categories: ['apéritif', 'légumes']
 ---
 
 Ingrédients pour 4 personnes (10 beaux blinis) :

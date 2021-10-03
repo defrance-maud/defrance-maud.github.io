@@ -2,7 +2,7 @@
 title: "moelleux carottes et courgettes"
 date: 2015-11-12
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

@@ -2,7 +2,7 @@
 title: "Quenelles sauce ratatouille"
 date: 2019-05-21
 description: ""
-categories: ['diner']
+categories: ['plat']
 ---
 
               

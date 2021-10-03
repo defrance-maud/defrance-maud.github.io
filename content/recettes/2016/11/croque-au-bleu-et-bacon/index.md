@@ -2,7 +2,7 @@
 title: "croque au bleu et bacon"
 date: 2016-11-22
 description: ""
-categories: ['plat', 'quiche, croque, cake']
+categories: ['plat']
 ---
 
           

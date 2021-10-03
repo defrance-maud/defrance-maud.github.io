@@ -2,7 +2,7 @@
 title: "soupe de fanes de radis"
 date: 2018-11-05
 description: ""
-categories: ['légumes', 'soupes']
+categories: ['légumes', 'plat', 'soupes']
 ---
 
           

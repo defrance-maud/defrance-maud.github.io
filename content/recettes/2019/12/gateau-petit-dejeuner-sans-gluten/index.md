@@ -2,7 +2,7 @@
 title: "Gâteau petit déjeuner sans gluten"
 date: 2019-12-19
 description: ""
-categories: ['Goûter enfant', 'sans gluten', 'petit déjeuner']
+categories: ['goûter', 'sans gluten', 'petit déjeuner']
 ---
 
               

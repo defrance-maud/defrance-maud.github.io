@@ -2,7 +2,7 @@
 title: "muffins à la carotte et à la courgette"
 date: 2011-04-11
 description: ""
-categories: ['légumes', 'quiche, croque, cake']
+categories: ['légumes', 'plat']
 ---
 
           

@@ -2,7 +2,7 @@
 title: "rillettes aux deux jambons"
 date: 2011-04-05
 description: ""
-categories: ['aperitif']
+categories: ['apéritif']
 ---
 
           

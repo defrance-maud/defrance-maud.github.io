@@ -2,7 +2,7 @@
 title: "velouté tomates et poivrons rouges"
 date: 2011-11-22
 description: ""
-categories: 
+categories: ['soupes', 'légumes']
 ---
 
           

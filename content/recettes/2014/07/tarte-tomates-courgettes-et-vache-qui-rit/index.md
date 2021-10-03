@@ -2,7 +2,7 @@
 title: "tarte tomates, courgettes et vache qui rit"
 date: 2014-07-25
 description: ""
-categories: 
+categories: ['plat']
 ---
 
           

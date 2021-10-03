@@ -2,7 +2,7 @@
 title: "Biscuits pépites chocolat"
 date: 2019-05-21
 description: ""
-categories: ['Goûter enfant', 'dessert']
+categories: ['Goûter']
 ---
 
               

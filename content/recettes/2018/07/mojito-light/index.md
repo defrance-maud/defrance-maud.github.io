@@ -2,7 +2,7 @@
 title: "mojito light"
 date: 2018-07-10
 description: ""
-categories: ['boisson', 'aperitif']
+categories: ['apéritif']
 ---
 
           

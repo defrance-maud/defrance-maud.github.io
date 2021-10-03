@@ -5,7 +5,6 @@ description: "Brioche pour l'épiphanie"
 categories: ['petit déjeuner', 'goûter']
 ---
 Ingrédients pour 10 personnes
-
 - 380 g de farine
 - 260 ml de lait ou boisson végétale
 - 20 g de levure fraîche de boulanger ou 7 g de levure sèche 

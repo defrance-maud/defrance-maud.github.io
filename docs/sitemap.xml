@@ -3,22 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diet-blain.net/categories/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diet-blain.net/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diet-blain.net/categories/plat/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diet-blain.net/recettes/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diet-blain.net/recettes/2022/03/rostis-de-patate-douce-et-f%C3%AAta/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diet-blain.net/recettes/2022/03/terrine-de-merlu/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diet-blain.net/recettes/2022/03/bricks-%C3%A9pinards-et-ch%C3%A8vre/</loc>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://diet-blain.net/recettes/2021/10/bowlcake/</loc>
     <lastmod>2021-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://diet-blain.net/categories/</loc>
-    <lastmod>2021-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://diet-blain.net/recettes/2021/10/cocotte-de-filet-mignon-choux-et-pommes-de-terre/</loc>
-    <lastmod>2021-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diet-blain.net/</loc>
     <lastmod>2021-10-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,16 +59,6 @@
   
   <url>
     <loc>https://diet-blain.net/categories/petit-d%C3%A9jeuner/</loc>
-    <lastmod>2021-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diet-blain.net/categories/plat/</loc>
-    <lastmod>2021-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diet-blain.net/recettes/</loc>
     <lastmod>2021-10-03T00:00:00+00:00</lastmod>
   </url>
   

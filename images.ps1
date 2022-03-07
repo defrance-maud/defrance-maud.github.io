@@ -5,6 +5,8 @@ Clear-Host
 $maxWidth = 680
 $knownExt = @('.jpg', '.jpeg', '.png')
 
+Add-Type -AssemblyName 'System.Drawing'
+
 $unknown = [System.Collections.ArrayList]::new()
 $big = [System.Collections.ArrayList]::new()
 $incorrect = [System.Collections.ArrayList]::new()

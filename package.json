@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/defrance-maud/defrance-maud.github.io/issues"
   },
-  "homepage": "https://github.com/defrance-maud/defrance-maud.github.io#readme"
+  "homepage": "https://github.com/defrance-maud/defrance-maud.github.io#readme",
+  "dependencies": {}
 }

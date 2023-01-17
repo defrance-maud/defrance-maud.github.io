@@ -1,4 +1,4 @@
-﻿$path = 'D:\Projects\Perso\Boo\dieteticienne-nutritionniste-blain\content\recettes\'
+﻿$path = '.\content\recettes\'
 
 Clear-Host
 

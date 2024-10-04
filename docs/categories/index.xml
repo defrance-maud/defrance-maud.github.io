@@ -4,125 +4,100 @@
     <title>Categories on Maud DEFRANCE - Dieteticienne nutritionniste</title>
     <link>https://diet-blain.net/categories/</link>
     <description>Recent content in Categories on Maud DEFRANCE - Dieteticienne nutritionniste</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://diet-blain.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://diet-blain.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>plat</title>
+      <title>Plat</title>
       <link>https://diet-blain.net/categories/plat/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/plat/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sans gluten</title>
+      <title>Sans-Gluten</title>
       <link>https://diet-blain.net/categories/sans-gluten/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/sans-gluten/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>goûter</title>
+      <title>Goûter</title>
       <link>https://diet-blain.net/categories/go%C3%BBter/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/go%C3%BBter/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>petit déjeuner</title>
+      <title>Petit-Déjeuner</title>
       <link>https://diet-blain.net/categories/petit-d%C3%A9jeuner/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/petit-d%C3%A9jeuner/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>apéritif</title>
+      <title>Apéritif</title>
       <link>https://diet-blain.net/categories/ap%C3%A9ritif/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/ap%C3%A9ritif/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>légumes</title>
+      <title>Légumes</title>
       <link>https://diet-blain.net/categories/l%C3%A9gumes/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/l%C3%A9gumes/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Sans lactose</title>
+      <title>Sans Lactose</title>
       <link>https://diet-blain.net/categories/sans-lactose/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/sans-lactose/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dessert</title>
+      <title>Dessert</title>
       <link>https://diet-blain.net/categories/dessert/</link>
       <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/dessert/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>salade composee</title>
+      <title>Salade Composee</title>
       <link>https://diet-blain.net/categories/salade-composee/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/salade-composee/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>végétarien</title>
+      <title>Végétarien</title>
       <link>https://diet-blain.net/categories/v%C3%A9g%C3%A9tarien/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/v%C3%A9g%C3%A9tarien/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pâte à tarte</title>
+      <title>Pâte À Tarte</title>
       <link>https://diet-blain.net/categories/p%C3%A2te-%C3%A0-tarte/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/p%C3%A2te-%C3%A0-tarte/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>noel</title>
+      <title>Noel</title>
       <link>https://diet-blain.net/categories/noel/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/noel/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>soupes</title>
+      <title>Soupes</title>
       <link>https://diet-blain.net/categories/soupes/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://diet-blain.net/categories/soupes/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

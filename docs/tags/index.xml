@@ -4,7 +4,8 @@
     <title>Tags on Maud DEFRANCE - Dieteticienne nutritionniste</title>
     <link>https://diet-blain.net/tags/</link>
     <description>Recent content in Tags on Maud DEFRANCE - Dieteticienne nutritionniste</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://diet-blain.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://diet-blain.net/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

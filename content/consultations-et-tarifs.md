@@ -11,7 +11,7 @@ menu:
 
 Consultations de suivis (environ 30 minutes) : 33 euros.
 
-Bilan nutritionnel 1ère consultation (environ 45 minutes à 1 heure) : 55 euros.
+Bilan nutritionnel 1ère consultation (environ 45 mn à 1 heure) : 55 euros.
 
 Autres prestations :
 - Bilan nutritionnel à deux : 70 euros

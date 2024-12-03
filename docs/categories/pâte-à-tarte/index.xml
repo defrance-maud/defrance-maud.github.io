@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pâte À Tarte on Maud DEFRANCE - Dieteticienne nutritionniste</title>
-    <link>https://diet-blain.net/categories/p%C3%A2te-%C3%A0-tarte/</link>
+    <link>http://localhost:1313/categories/p%C3%A2te-%C3%A0-tarte/</link>
     <description>Recent content in Pâte À Tarte on Maud DEFRANCE - Dieteticienne nutritionniste</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://diet-blain.net/categories/p%C3%A2te-%C3%A0-tarte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/p%C3%A2te-%C3%A0-tarte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pâte brisée au fromage blanc</title>
-      <link>https://diet-blain.net/recettes/2019/11/p%C3%A2te-bris%C3%A9e-au-fromage-blanc/</link>
+      <link>http://localhost:1313/recettes/2019/11/p%C3%A2te-bris%C3%A9e-au-fromage-blanc/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2019/11/p%C3%A2te-bris%C3%A9e-au-fromage-blanc/</guid>
+      <guid>http://localhost:1313/recettes/2019/11/p%C3%A2te-bris%C3%A9e-au-fromage-blanc/</guid>
       <description>&lt;p&gt;Ingrédients :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;200 g de farine &lt;/li&gt;&#xA;&lt;li&gt;une pincée de sel&lt;/li&gt;&#xA;&lt;li&gt;1 oeuf&lt;/li&gt;&#xA;&lt;li&gt;100 g de fromage blanc à 3% &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Dans un saladier mettre la farine, le sel, et l’œuf, pétrir ensuite rajouter le fromage blanc jusque l’obtention d’une boule de pâte. Si besoin rajouter un peu d’eau. Si possible mettre au frigo 30 min sinon étaler de suite la pâte. Piquer à la fourchette. &#xA; &lt;/p&gt;&#xA;&lt;p&gt;Nutriton: 1/8 e apporte 25 g crus de féculents ou 30 g de pain. 1/6 elle apporte 35 g crus de féculents ou 45 g de pain. &lt;/p&gt;</description>
     </item>
   </channel>

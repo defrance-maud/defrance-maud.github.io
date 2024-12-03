@@ -2,73 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goûter on Maud DEFRANCE - Dieteticienne nutritionniste</title>
-    <link>https://diet-blain.net/categories/go%C3%BBter/</link>
+    <link>http://localhost:1313/categories/go%C3%BBter/</link>
     <description>Recent content in Goûter on Maud DEFRANCE - Dieteticienne nutritionniste</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://diet-blain.net/categories/go%C3%BBter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/go%C3%BBter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scrambled pancakes</title>
+      <link>http://localhost:1313/recettes/2024/12/scrambled-pancakes/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recettes/2024/12/scrambled-pancakes/</guid>
+      <description>&lt;p&gt;Ingrédients pour 1 personne :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 œuf&lt;/li&gt;&#xA;&lt;li&gt;1 cac de sucre&lt;/li&gt;&#xA;&lt;li&gt;50 g de fromage blanc&lt;/li&gt;&#xA;&lt;li&gt;40 g de farine&lt;/li&gt;&#xA;&lt;li&gt;1 cac de levure chimique&lt;/li&gt;&#xA;&lt;li&gt;Fruits rouges surgelés&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Mélanger tous les ingrédients. Faire cuire à la poêle dans un peu d’huile comme des œufs&#xA;brouillés.&lt;/p&gt;&#xA;&lt;p&gt;Nutrition : 1 part au petit déjeuner correspond à 45 g de pain, 1 cac de sucre, 70 g de viande&#xA;équivalence, un peu de fruits.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Fromage blanc et ses fruits rouges</title>
-      <link>https://diet-blain.net/recettes/2022/12/fromage-blanc-et-ses-fruits-rouges/</link>
+      <link>http://localhost:1313/recettes/2022/12/fromage-blanc-et-ses-fruits-rouges/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2022/12/fromage-blanc-et-ses-fruits-rouges/</guid>
+      <guid>http://localhost:1313/recettes/2022/12/fromage-blanc-et-ses-fruits-rouges/</guid>
       <description>&lt;p&gt;Ingrédients pour 4 personnes :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;400 g de fromage blanc à 3% MG&lt;/li&gt;&#xA;&lt;li&gt;4 cac de sucre complet type rapadura&lt;/li&gt;&#xA;&lt;li&gt;400 g de framboises&lt;/li&gt;&#xA;&lt;li&gt;400 g de myrtilles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Disposer dans des ramequins ou un petit saladier comme sur la photo.&lt;/p&gt;&#xA;&lt;p&gt;Nutrition : 1 ramequin équivaut à un laitage sucré et un fruit&lt;/p&gt;</description>
     </item>
     <item>
       <title>Crinkle au citron</title>
-      <link>https://diet-blain.net/recettes/2021/10/crinkle-au-citron/</link>
+      <link>http://localhost:1313/recettes/2021/10/crinkle-au-citron/</link>
       <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2021/10/crinkle-au-citron/</guid>
+      <guid>http://localhost:1313/recettes/2021/10/crinkle-au-citron/</guid>
       <description>&lt;p&gt;Ingrédients pour 30 crinkles :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;150g de farine de riz&lt;/li&gt;&#xA;&lt;li&gt;100g de farine de millet&lt;/li&gt;&#xA;&lt;li&gt;50g de fécule de maïs&lt;/li&gt;&#xA;&lt;li&gt;100g de beurre fondu&lt;/li&gt;&#xA;&lt;li&gt;1 oeuf entier&lt;/li&gt;&#xA;&lt;li&gt;80g de sucre complet&lt;/li&gt;&#xA;&lt;li&gt;3g de poudre à lever&lt;/li&gt;&#xA;&lt;li&gt;2 citrons pressés et zestes&lt;/li&gt;&#xA;&lt;li&gt;2 CaS de sucre glace&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Dans un saladier, fouetter le sucre et l&amp;rsquo;oeuf jusqu&amp;rsquo;à blanchissement.&#xA;Ajouter le beurre fondu et fouetter de nouveau.&#xA;Dans un autre saladier, mélanger les farines, la fécule et la poudre à lever.&#xA;Passer le tout au tamis. Ajouter sucre et oeuf.&#xA;Ajouter le jus et les zestes des 2 citrons.&#xA;Laisser reposer 2h minimum au réfrigérateur.&#xA;Former des petits boules et les rouler dans du sucre glace.&#xA;Cuire à 180° pendant 10 minutes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Madeleines fondantes chocolat vanille sans gluten </title>
-      <link>https://diet-blain.net/recettes/2021/03/madeleines-fondantes-chocolat-vanille-sans-gluten/</link>
+      <link>http://localhost:1313/recettes/2021/03/madeleines-fondantes-chocolat-vanille-sans-gluten/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2021/03/madeleines-fondantes-chocolat-vanille-sans-gluten/</guid>
+      <guid>http://localhost:1313/recettes/2021/03/madeleines-fondantes-chocolat-vanille-sans-gluten/</guid>
       <description>&lt;p&gt;Ingrédients pour 12 madeleines :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;80 g de farine de riz &lt;/li&gt;&#xA;&lt;li&gt;60 g de poudre damandes&lt;/li&gt;&#xA;&lt;li&gt;40 g de fécule de mais&lt;/li&gt;&#xA;&lt;li&gt;1 CAS de poudre à lever sans gluten&lt;/li&gt;&#xA;&lt;li&gt;4 CAS de sucre complet (50 g)&lt;/li&gt;&#xA;&lt;li&gt;6 CAS de compote de pommes ou autres&lt;/li&gt;&#xA;&lt;li&gt;30 g de beurre&lt;/li&gt;&#xA;&lt;li&gt;5 cl de lait végétal ou animal&lt;/li&gt;&#xA;&lt;li&gt;2 CAS cacao non sucré &lt;/li&gt;&#xA;&lt;li&gt;sel, vanille&#xA;Dans un saladier, mélanger la farine, la fécule, le sucre, la poudre à lever, la poudre d’amandes et le sel.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ajouter le beurre fondu, la compote, le lait en fouettant jusqu’à consistance assez épaisse pour pouvoir verser dans les empreintes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Couronne des rois</title>
-      <link>https://diet-blain.net/recettes/2021/01/couronne-des-rois/</link>
+      <link>http://localhost:1313/recettes/2021/01/couronne-des-rois/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2021/01/couronne-des-rois/</guid>
+      <guid>http://localhost:1313/recettes/2021/01/couronne-des-rois/</guid>
       <description>&lt;p&gt;Ingrédients pour 10 personnes&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;380 g de farine&lt;/li&gt;&#xA;&lt;li&gt;260 ml de lait ou boisson végétale&lt;/li&gt;&#xA;&lt;li&gt;20 g de levure fraîche de boulanger ou 7 g de levure sèche&lt;/li&gt;&#xA;&lt;li&gt;60 g de sucre en poudre&lt;/li&gt;&#xA;&lt;li&gt;5 g de sel fin&lt;/li&gt;&#xA;&lt;li&gt;70 ml d’huile de tournesol&lt;/li&gt;&#xA;&lt;li&gt;Cubes oranges confites ou zestes oranges&lt;/li&gt;&#xA;&lt;li&gt;Sucre perlé pour la déco (facultatif)&lt;/li&gt;&#xA;&lt;li&gt;1 fève&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Faire tiédir légèrement le lait et y mettre la levure, laisser reposer environ 10 minutes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brioche Sans Oeufs Et Sans Beurre</title>
-      <link>https://diet-blain.net/recettes/2020/03/brioche-sans-oeufs-et-sans-beurre/</link>
+      <link>http://localhost:1313/recettes/2020/03/brioche-sans-oeufs-et-sans-beurre/</link>
       <pubDate>Thu, 19 Mar 2020 13:47:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2020/03/brioche-sans-oeufs-et-sans-beurre/</guid>
+      <guid>http://localhost:1313/recettes/2020/03/brioche-sans-oeufs-et-sans-beurre/</guid>
       <description>&lt;p&gt;Vu sur le blog de perle en sucre.&lt;/p&gt;&#xA;&lt;p&gt;Ingrédients :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;260 ml de lait ou lait vegetal&lt;/li&gt;&#xA;&lt;li&gt;20 g de levure fraîche ou 7 g de levure seche&lt;/li&gt;&#xA;&lt;li&gt;380 g de farine t55 ou t45 ou farine de petit epeautre&lt;/li&gt;&#xA;&lt;li&gt;60 g de sucre&lt;/li&gt;&#xA;&lt;li&gt;5 g sel fin&lt;/li&gt;&#xA;&lt;li&gt;70 ml d’huile de tournesol ou autre&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Faire chauffer le lait jusqu’à ce qu’il soit tiede, y délayer la levure, laisser reposer 15 minutes, l’ensemble va mousser.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gâteau petit déjeuner sans gluten</title>
-      <link>https://diet-blain.net/recettes/2019/12/g%C3%A2teau-petit-d%C3%A9jeuner-sans-gluten/</link>
+      <link>http://localhost:1313/recettes/2019/12/g%C3%A2teau-petit-d%C3%A9jeuner-sans-gluten/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2019/12/g%C3%A2teau-petit-d%C3%A9jeuner-sans-gluten/</guid>
+      <guid>http://localhost:1313/recettes/2019/12/g%C3%A2teau-petit-d%C3%A9jeuner-sans-gluten/</guid>
       <description>&lt;p&gt;Ingrédients &lt;/p&gt;&#xA;&lt;p&gt;100 g de farine de maïs ou riz&lt;/p&gt;&#xA;&lt;p&gt;50 g de poudre amande &lt;/p&gt;&#xA;&lt;p&gt;2 oeufs&lt;/p&gt;&#xA;&lt;p&gt;1/2 sachet de levure sans gluten&lt;/p&gt;&#xA;&lt;p&gt;50 g de compote nature&lt;/p&gt;&#xA;&lt;p&gt;1 cas de purée damande&lt;/p&gt;&#xA;&lt;p&gt;3 cas de sirop d’agave &lt;/p&gt;&#xA;&lt;p&gt;1 gousse de vanille&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;mélanger les ingrédients secs. Ajouter les œufs, la compote, la purée d’amandes, le sirop et la vanille. Mélanger. &#xA;verser dans un moule à cake.&lt;/p&gt;&#xA;&lt;p&gt;cuire à 180 c pendant 25 min.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Biscuits pépites chocolat</title>
-      <link>https://diet-blain.net/recettes/2019/05/biscuits-p%C3%A9pites-chocolat/</link>
+      <link>http://localhost:1313/recettes/2019/05/biscuits-p%C3%A9pites-chocolat/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2019/05/biscuits-p%C3%A9pites-chocolat/</guid>
+      <guid>http://localhost:1313/recettes/2019/05/biscuits-p%C3%A9pites-chocolat/</guid>
       <description>&lt;p&gt;Ingrédients pour 15 biscuits &lt;/p&gt;&#xA;&lt;p&gt;1 oeuf &lt;/p&gt;&#xA;&lt;p&gt;30 g de sucre complet type rapadura &lt;/p&gt;&#xA;&lt;p&gt;40 g de flocons d’avoine &lt;/p&gt;&#xA;&lt;p&gt;60 g de farine&lt;/p&gt;&#xA;&lt;p&gt;90 g de compote de pommes sans sucres ajoutés &lt;/p&gt;&#xA;&lt;p&gt;1/2 sachet de levure chimique &lt;/p&gt;&#xA;&lt;p&gt;15 g de pépites de chocolat &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Prechauffer le four à 175c.&lt;/p&gt;&#xA;&lt;p&gt;mélanger tous les ingrédients sauf le chocolat à l’aide d’une cuillère. La préparation reste un peu liquide c’est normal. Repartir les biscuits sur un plaque de cuisson recouverte de papier sulfurisé, mettre 1 cac de préparation pour chaque biscuit pour en avoir 15.&lt;/p&gt;</description>
     </item>
     <item>
       <title>cookies moelleux</title>
-      <link>https://diet-blain.net/recettes/2017/02/cookies-moelleux/</link>
+      <link>http://localhost:1313/recettes/2017/02/cookies-moelleux/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2017/02/cookies-moelleux/</guid>
+      <guid>http://localhost:1313/recettes/2017/02/cookies-moelleux/</guid>
       <description>&lt;p&gt;une petite recette de cookies pour le gouter des enfants ;)ingrédients pour 20 cookies : 100 g de beurre doux80 g de sucre roux ou complet1 CAC de levure chimique200 g de farine complete1 oeuf50 g de pépites de chocolat mélanger le beurre en pommade (je l&#39;ai mis qqs secondes au microondes pour le ramollir un peu) avec le sucre, il faut que cela fasse une pate.ajouter l&#39;oeuf, bien mélanger.ajouter, la farine, un peu de sel, et la levure.incorporer les pépites de chocolat (j&#39;ai malaxé rapidement à la main).ensuite faire des petites boules (l&#39;équivalence d&#39;une noix) afin d&#39;en obtenir minimum 20.mettre au four à 170°C pendant environ 10 minutes (les bords doivent etre dorés mais le dessus encore moelleux). sortir du four et laisser reposer.vous pouvez les mettre dans une boite hermetique et les conserver 1 semaine.nutrition : 1 biscuit apporte 1 CAC d&#39;huile + 1morceau de sucre + 12 g de pain &lt;/p&gt;</description>
     </item>
     <item>
       <title>biscuits citron et pavot</title>
-      <link>https://diet-blain.net/recettes/2011/05/biscuits-citron-et-pavot/</link>
+      <link>http://localhost:1313/recettes/2011/05/biscuits-citron-et-pavot/</link>
       <pubDate>Thu, 12 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2011/05/biscuits-citron-et-pavot/</guid>
+      <guid>http://localhost:1313/recettes/2011/05/biscuits-citron-et-pavot/</guid>
       <description>&lt;p&gt;cette recette est inspirée des sucreries de bulles et convient parfaitement pour la collation en remplacement de la barre de céréales ou autres produits céréaliers conseillés.                 ingrédients pour une vingtaine de biscuits :   150 g de farine   30 g de beurre   35 g de sucre   1 jaune d&amp;rsquo;oeuf   4 cl de lait   1/2 CAC de levure   1/2 CAC d&amp;rsquo;extrait de vanille   1 CAC de jus de citron   une pincée de sel   des graines de pavot   sucre glace       technique :   dans un bol, mélanger la farine, la levure et le sel.   dans un autre bol, fouetter le beurre avec un batteur éléctrique jusqu&amp;rsquo;à ce qu&amp;rsquo;il soit pommade.    ajouter peu à peu le sucre.    fouetter jusqu&amp;rsquo;à ce que le mélange s&amp;rsquo;éclaircisse pendant environ 2 minutes. ajouter l&amp;rsquo;extrait de vanille et le jus de citron.   dans un autre saladier, fouetter le lait et le jaune d&amp;rsquo;oeuf.   ajouter les ingrédients secs (sauf graines pavot) dans le saladier avec le beurre en trois fois en alternance avec le lait.   mélanger et ajouter les graines de pavot.   former une boule de pate et recouvrer la de film plastique. réserver au réfrigérateur pendant 3 heures. (je pense que le temps de repos peut etre réduit à 30 minutes, à tester&amp;hellip;)   préchauffer le four à 180°C.   séparer la pate en 4 petites boules, rouler chaque boule en boudins et découper des tranches.   mettre les tranches sur une plaque de cuisson recouverte de papier cuisson.   mettre au four pendant 10 minutes, th 180 °C.   saupoudrer de sucre glace.   se conserve plus d&amp;rsquo;une semaine dans une boite.       nutrition :  2 biscuits sont l&amp;rsquo;équivalent de 30 g de pain ou 1 barre de céréales ou 2 petits beurre.&lt;/p&gt;</description>
     </item>
   </channel>

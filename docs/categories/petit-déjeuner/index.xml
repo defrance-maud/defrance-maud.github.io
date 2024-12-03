@@ -1,88 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Petit-Déjeuner on Maud DEFRANCE - Dieteticienne nutritionniste</title>
-    <link>https://diet-blain.net/categories/petit-d%C3%A9jeuner/</link>
-    <description>Recent content in Petit-Déjeuner on Maud DEFRANCE - Dieteticienne nutritionniste</description>
+    <title>Petit Déjeuner on Maud DEFRANCE - Dieteticienne nutritionniste</title>
+    <link>http://localhost:1313/categories/petit-d%C3%A9jeuner/</link>
+    <description>Recent content in Petit Déjeuner on Maud DEFRANCE - Dieteticienne nutritionniste</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://diet-blain.net/categories/petit-d%C3%A9jeuner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/petit-d%C3%A9jeuner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scrambled pancakes</title>
+      <link>http://localhost:1313/recettes/2024/12/scrambled-pancakes/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recettes/2024/12/scrambled-pancakes/</guid>
+      <description>&lt;p&gt;Ingrédients pour 1 personne :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 œuf&lt;/li&gt;&#xA;&lt;li&gt;1 cac de sucre&lt;/li&gt;&#xA;&lt;li&gt;50 g de fromage blanc&lt;/li&gt;&#xA;&lt;li&gt;40 g de farine&lt;/li&gt;&#xA;&lt;li&gt;1 cac de levure chimique&lt;/li&gt;&#xA;&lt;li&gt;Fruits rouges surgelés&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Mélanger tous les ingrédients. Faire cuire à la poêle dans un peu d’huile comme des œufs&#xA;brouillés.&lt;/p&gt;&#xA;&lt;p&gt;Nutrition : 1 part au petit déjeuner correspond à 45 g de pain, 1 cac de sucre, 70 g de viande&#xA;équivalence, un peu de fruits.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Fromage blanc et ses fruits rouges</title>
-      <link>https://diet-blain.net/recettes/2022/12/fromage-blanc-et-ses-fruits-rouges/</link>
+      <link>http://localhost:1313/recettes/2022/12/fromage-blanc-et-ses-fruits-rouges/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2022/12/fromage-blanc-et-ses-fruits-rouges/</guid>
+      <guid>http://localhost:1313/recettes/2022/12/fromage-blanc-et-ses-fruits-rouges/</guid>
       <description>&lt;p&gt;Ingrédients pour 4 personnes :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;400 g de fromage blanc à 3% MG&lt;/li&gt;&#xA;&lt;li&gt;4 cac de sucre complet type rapadura&lt;/li&gt;&#xA;&lt;li&gt;400 g de framboises&lt;/li&gt;&#xA;&lt;li&gt;400 g de myrtilles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Disposer dans des ramequins ou un petit saladier comme sur la photo.&lt;/p&gt;&#xA;&lt;p&gt;Nutrition : 1 ramequin équivaut à un laitage sucré et un fruit&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bowlcake</title>
-      <link>https://diet-blain.net/recettes/2021/10/bowlcake/</link>
+      <link>http://localhost:1313/recettes/2021/10/bowlcake/</link>
       <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2021/10/bowlcake/</guid>
+      <guid>http://localhost:1313/recettes/2021/10/bowlcake/</guid>
       <description>&lt;p&gt;Ingrédients pour 1 personne :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 oeuf&lt;/li&gt;&#xA;&lt;li&gt;35g de flocon d&amp;rsquo;avoine&lt;/li&gt;&#xA;&lt;li&gt;80 ml de lait&lt;/li&gt;&#xA;&lt;li&gt;50g de compote de pomme sans sucre ajouté&lt;/li&gt;&#xA;&lt;li&gt;1 CaC de pâte à tartiner ou 5g de pépites de chocolat&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Dans un bol mélanger l&amp;rsquo;oeuf, les flocons d&amp;rsquo;avoine, le lait puis la compote.&#xA;Mettre 2 minutes au micro-ondes, démouler et décorer de chocolat.&lt;/p&gt;&#xA;&lt;p&gt;Nutrition : 60g d&amp;rsquo;équivalence viande, 60g de pain, 1/2 fruit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Granola maison</title>
-      <link>https://diet-blain.net/recettes/2021/04/granola-maison/</link>
+      <link>http://localhost:1313/recettes/2021/04/granola-maison/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2021/04/granola-maison/</guid>
+      <guid>http://localhost:1313/recettes/2021/04/granola-maison/</guid>
       <description>&lt;p&gt;Recette prise sur le blog de commentjaichangedevie.fr &lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;400 g de flocons avoine sans gluten (acheté chez biocop au rayon céréales petit déjeuner) mais pour les non intolérants flocons avoine classiques.&lt;/li&gt;&#xA;&lt;li&gt;100 g de graines oléagineuses (amandes, noix ou noisettes&amp;hellip; ici noisettes)&lt;/li&gt;&#xA;&lt;li&gt;30 g d’huile de coco ou autre huile vegetale&lt;/li&gt;&#xA;&lt;li&gt;100 g de miel &lt;/li&gt;&#xA;&lt;li&gt;100 g de fruits secs (ici raisins secs)&lt;/li&gt;&#xA;&lt;li&gt;50 g de pépites de chocolat&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;melanger les flocons d’avoine, les graines oléagineuses, l’huile et le miel.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Couronne des rois</title>
-      <link>https://diet-blain.net/recettes/2021/01/couronne-des-rois/</link>
+      <link>http://localhost:1313/recettes/2021/01/couronne-des-rois/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2021/01/couronne-des-rois/</guid>
+      <guid>http://localhost:1313/recettes/2021/01/couronne-des-rois/</guid>
       <description>&lt;p&gt;Ingrédients pour 10 personnes&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;380 g de farine&lt;/li&gt;&#xA;&lt;li&gt;260 ml de lait ou boisson végétale&lt;/li&gt;&#xA;&lt;li&gt;20 g de levure fraîche de boulanger ou 7 g de levure sèche&lt;/li&gt;&#xA;&lt;li&gt;60 g de sucre en poudre&lt;/li&gt;&#xA;&lt;li&gt;5 g de sel fin&lt;/li&gt;&#xA;&lt;li&gt;70 ml d’huile de tournesol&lt;/li&gt;&#xA;&lt;li&gt;Cubes oranges confites ou zestes oranges&lt;/li&gt;&#xA;&lt;li&gt;Sucre perlé pour la déco (facultatif)&lt;/li&gt;&#xA;&lt;li&gt;1 fève&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Faire tiédir légèrement le lait et y mettre la levure, laisser reposer environ 10 minutes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brioche Sans Oeufs Et Sans Beurre</title>
-      <link>https://diet-blain.net/recettes/2020/03/brioche-sans-oeufs-et-sans-beurre/</link>
+      <link>http://localhost:1313/recettes/2020/03/brioche-sans-oeufs-et-sans-beurre/</link>
       <pubDate>Thu, 19 Mar 2020 13:47:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2020/03/brioche-sans-oeufs-et-sans-beurre/</guid>
+      <guid>http://localhost:1313/recettes/2020/03/brioche-sans-oeufs-et-sans-beurre/</guid>
       <description>&lt;p&gt;Vu sur le blog de perle en sucre.&lt;/p&gt;&#xA;&lt;p&gt;Ingrédients :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;260 ml de lait ou lait vegetal&lt;/li&gt;&#xA;&lt;li&gt;20 g de levure fraîche ou 7 g de levure seche&lt;/li&gt;&#xA;&lt;li&gt;380 g de farine t55 ou t45 ou farine de petit epeautre&lt;/li&gt;&#xA;&lt;li&gt;60 g de sucre&lt;/li&gt;&#xA;&lt;li&gt;5 g sel fin&lt;/li&gt;&#xA;&lt;li&gt;70 ml d’huile de tournesol ou autre&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Faire chauffer le lait jusqu’à ce qu’il soit tiede, y délayer la levure, laisser reposer 15 minutes, l’ensemble va mousser.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Banana Bread Avec Ou Sans Gluten</title>
-      <link>https://diet-blain.net/recettes/2020/03/banana-bread-avec-ou-sans-gluten/</link>
+      <link>http://localhost:1313/recettes/2020/03/banana-bread-avec-ou-sans-gluten/</link>
       <pubDate>Thu, 19 Mar 2020 13:37:00 +0100</pubDate>
-      <guid>https://diet-blain.net/recettes/2020/03/banana-bread-avec-ou-sans-gluten/</guid>
+      <guid>http://localhost:1313/recettes/2020/03/banana-bread-avec-ou-sans-gluten/</guid>
       <description>&lt;p&gt;Ingrédients&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3 bananes mures&lt;/li&gt;&#xA;&lt;li&gt;200 g de farine ou 60 g farine de blé noir + 60 g farine de maïs + 80 g farine de riz&lt;/li&gt;&#xA;&lt;li&gt;160 ml de lait ou lait vegetal&lt;/li&gt;&#xA;&lt;li&gt;100 g de poudre damandes&lt;/li&gt;&#xA;&lt;li&gt;60 g de sucre complet&lt;/li&gt;&#xA;&lt;li&gt;1/2 sachet de levure chimique ou sans gluten&lt;/li&gt;&#xA;&lt;li&gt;sel&lt;/li&gt;&#xA;&lt;li&gt;50 g pépites chocolat (facultatif)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Préchauffer le four à 160 c&lt;/p&gt;&#xA;&lt;p&gt;écraser les bananes a l’aide d’une fourchette, ensuite ajouter le lait. Reserver.&#xA;dans un saladier, mettre la farine, la poudre d’amandes, le sucre, la levure, le sel, le chocolat puis ajouter au mélanger précédent.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pancakes </title>
-      <link>https://diet-blain.net/recettes/2020/02/pancakes/</link>
+      <link>http://localhost:1313/recettes/2020/02/pancakes/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2020/02/pancakes/</guid>
+      <guid>http://localhost:1313/recettes/2020/02/pancakes/</guid>
       <description>&lt;p&gt;Ingrédients pour 14 pancakes &lt;/p&gt;&#xA;&lt;p&gt;250 g farine de blé &lt;/p&gt;&#xA;&lt;p&gt;2 oeufs&lt;/p&gt;&#xA;&lt;p&gt;65 g de beurre &lt;/p&gt;&#xA;&lt;p&gt;30 g de sucre complet &lt;/p&gt;&#xA;&lt;p&gt;1 sachet de levure chimique &lt;/p&gt;&#xA;&lt;p&gt;30 cl de lait demi écrémé &lt;/p&gt;&#xA;&lt;p&gt;sel&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;melanger la farine, le sucre, levure et une pincée de sel.&lt;/p&gt;&#xA;&lt;p&gt;ajouter les œufs.&lt;/p&gt;&#xA;&lt;p&gt;ajouter le beurre fondu.&lt;/p&gt;&#xA;&lt;p&gt;ajouter petit à petit le lait.&lt;/p&gt;&#xA;&lt;p&gt;reserver 1 h au frigo.&lt;/p&gt;&#xA;&lt;p&gt;cuire sur feu doux. On retourne le pancake lorsque des bulles apparaissent en surface environ 30 secondes&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pancakes sans gluten </title>
-      <link>https://diet-blain.net/recettes/2020/02/pancakes-sans-gluten/</link>
+      <link>http://localhost:1313/recettes/2020/02/pancakes-sans-gluten/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2020/02/pancakes-sans-gluten/</guid>
+      <guid>http://localhost:1313/recettes/2020/02/pancakes-sans-gluten/</guid>
       <description>&lt;p&gt;Ingrédients pour 16 pancakes&lt;/p&gt;&#xA;&lt;p&gt;100 g de farine de riz&lt;/p&gt;&#xA;&lt;p&gt;75 g de farine de millet (biocop)&lt;/p&gt;&#xA;&lt;p&gt;75 g de farine de maïs&lt;/p&gt;&#xA;&lt;p&gt;1 sachet de levure chimique sans gluten&lt;/p&gt;&#xA;&lt;p&gt;2 oeufs&lt;/p&gt;&#xA;&lt;p&gt;30 g sucre complet&lt;/p&gt;&#xA;&lt;p&gt;65 g de beurre&lt;/p&gt;&#xA;&lt;p&gt;30 cl de lait d’amande &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;mélanger les farines, le sucre, la levure et une pincée de sel.&lt;/p&gt;&#xA;&lt;p&gt;ajouter les œufs.&lt;/p&gt;&#xA;&lt;p&gt;le beurre fondu.&lt;/p&gt;&#xA;&lt;p&gt;le lait d’amande petit à petit&lt;/p&gt;&#xA;&lt;p&gt; cuire à feu doux de chaque côté attention à y aller délicatement avec la spatule.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gâteau petit déjeuner sans gluten</title>
-      <link>https://diet-blain.net/recettes/2019/12/g%C3%A2teau-petit-d%C3%A9jeuner-sans-gluten/</link>
+      <link>http://localhost:1313/recettes/2019/12/g%C3%A2teau-petit-d%C3%A9jeuner-sans-gluten/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2019/12/g%C3%A2teau-petit-d%C3%A9jeuner-sans-gluten/</guid>
+      <guid>http://localhost:1313/recettes/2019/12/g%C3%A2teau-petit-d%C3%A9jeuner-sans-gluten/</guid>
       <description>&lt;p&gt;Ingrédients &lt;/p&gt;&#xA;&lt;p&gt;100 g de farine de maïs ou riz&lt;/p&gt;&#xA;&lt;p&gt;50 g de poudre amande &lt;/p&gt;&#xA;&lt;p&gt;2 oeufs&lt;/p&gt;&#xA;&lt;p&gt;1/2 sachet de levure sans gluten&lt;/p&gt;&#xA;&lt;p&gt;50 g de compote nature&lt;/p&gt;&#xA;&lt;p&gt;1 cas de purée damande&lt;/p&gt;&#xA;&lt;p&gt;3 cas de sirop d’agave &lt;/p&gt;&#xA;&lt;p&gt;1 gousse de vanille&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;mélanger les ingrédients secs. Ajouter les œufs, la compote, la purée d’amandes, le sirop et la vanille. Mélanger. &#xA;verser dans un moule à cake.&lt;/p&gt;&#xA;&lt;p&gt;cuire à 180 c pendant 25 min.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pancakes à la banane</title>
-      <link>https://diet-blain.net/recettes/2019/05/pancakes-%C3%A0-la-banane/</link>
+      <link>http://localhost:1313/recettes/2019/05/pancakes-%C3%A0-la-banane/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2019/05/pancakes-%C3%A0-la-banane/</guid>
+      <guid>http://localhost:1313/recettes/2019/05/pancakes-%C3%A0-la-banane/</guid>
       <description>&lt;p&gt;Ingrédients pour 12 petits pancakes &lt;/p&gt;&#xA;&lt;p&gt;2 bananes&lt;/p&gt;&#xA;&lt;p&gt;2 oeufs&lt;/p&gt;&#xA;&lt;p&gt;1 CAS de fromage blanc &lt;/p&gt;&#xA;&lt;p&gt;1/2 CAC de levure chimique &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;dans un saladier, écraser les bananes à l’aide d’une fourchette.&lt;/p&gt;&#xA;&lt;p&gt;ajouter le fromage blanc et mélanger.&lt;/p&gt;&#xA;&lt;p&gt;puis les œufs et la levure, mélanger.&lt;/p&gt;&#xA;&lt;p&gt;faire chauffer une poêle anti adhésive. Mettre 1 CAS de pâte dans la poele et Faire cuire à feu doux de chaque côté pendant environ 2 minutes. &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Nutrition : 1 pancake équivaut à 55 kcals donc peut être mis dans le cadre d’un goûter enfant de 1 à 2 maximum et on rajoutera éventuellement un laitage. &lt;/p&gt;</description>
     </item>
     <item>
       <title>scones</title>
-      <link>https://diet-blain.net/recettes/2011/04/scones/</link>
+      <link>http://localhost:1313/recettes/2011/04/scones/</link>
       <pubDate>Mon, 18 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/recettes/2011/04/scones/</guid>
+      <guid>http://localhost:1313/recettes/2011/04/scones/</guid>
       <description>&lt;p&gt;voici une petite recette pour varier le petit déjeuner, une gourmandise sans conséquence&amp;hellip; délicieux trempés dans un bol de lait chocolaté.              Ingrédients (pour une six scones):  250 g de farine 1 sachet de levure chimique 25g de beurre 25g de sucre 10cl de lait 1 oeuf entier 1/2 pincée de sel       technique: Préchauffer le four à Thermostat 7 (210/220°C). Mélanger la farine et la levure chimique. Ajouter le beurre en morceau et mélanger la pâte avec la main jusqu&amp;rsquo;à obtenir une préparation sablonneuse. Ajouter alors le sucre et le sel, le lait et l&amp;rsquo;oeuf. Vous devez alors obtenir une pâte plutôt ferme. Ajouter enfin les raisins.  Etaler la pâte sur une épaisseur de 3 à 4 cm. Découper des ronds avec un emporte-pièce (personnellement, j&amp;rsquo;utilise mes moules à cannelés). L&amp;rsquo;idéal est d&amp;rsquo;avoir une vraie &amp;ldquo;coupure&amp;rdquo; de la pâte. Cela permet de mieux faire gonfler les scones. Il faut donc éviter de former de petites boules avec la main.  Saupoudrer de farine et poser les scones sur une plaque recouverte de papier sulfurisé. Mettre au four pendant une dizaine de minutes. Les scones doivent légèrement brunir.  Laisser tiédir et déguster       nutrition : 60 g de pain équivaut à 50 g de scones, 80 g de pain équivaut à 70 g de scones.&lt;/p&gt;</description>
     </item>
   </channel>

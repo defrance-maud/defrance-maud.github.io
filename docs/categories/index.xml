@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Maud DEFRANCE - Dieteticienne nutritionniste</title>
-    <link>https://diet-blain.net/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Maud DEFRANCE - Dieteticienne nutritionniste</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://diet-blain.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dessert</title>
-      <link>https://diet-blain.net/categories/dessert/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/dessert/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Plat</title>
-      <link>https://diet-blain.net/categories/plat/</link>
-      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/plat/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sans-Gluten</title>
-      <link>https://diet-blain.net/categories/sans-gluten/</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/sans-gluten/</guid>
+      <link>http://localhost:1313/categories/dessert/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/dessert/</guid>
       <description></description>
     </item>
     <item>
       <title>Goûter</title>
-      <link>https://diet-blain.net/categories/go%C3%BBter/</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/go%C3%BBter/</guid>
+      <link>http://localhost:1313/categories/go%C3%BBter/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/go%C3%BBter/</guid>
       <description></description>
     </item>
     <item>
-      <title>Petit-Déjeuner</title>
-      <link>https://diet-blain.net/categories/petit-d%C3%A9jeuner/</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/petit-d%C3%A9jeuner/</guid>
+      <title>Petit Déjeuner</title>
+      <link>http://localhost:1313/categories/petit-d%C3%A9jeuner/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/petit-d%C3%A9jeuner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plat</title>
+      <link>http://localhost:1313/categories/plat/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/plat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sans-Gluten</title>
+      <link>http://localhost:1313/categories/sans-gluten/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/sans-gluten/</guid>
       <description></description>
     </item>
     <item>
       <title>Apéritif</title>
-      <link>https://diet-blain.net/categories/ap%C3%A9ritif/</link>
+      <link>http://localhost:1313/categories/ap%C3%A9ritif/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/ap%C3%A9ritif/</guid>
+      <guid>http://localhost:1313/categories/ap%C3%A9ritif/</guid>
       <description></description>
     </item>
     <item>
       <title>Légumes</title>
-      <link>https://diet-blain.net/categories/l%C3%A9gumes/</link>
+      <link>http://localhost:1313/categories/l%C3%A9gumes/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/l%C3%A9gumes/</guid>
+      <guid>http://localhost:1313/categories/l%C3%A9gumes/</guid>
       <description></description>
     </item>
     <item>
       <title>Sans Lactose</title>
-      <link>https://diet-blain.net/categories/sans-lactose/</link>
+      <link>http://localhost:1313/categories/sans-lactose/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/sans-lactose/</guid>
+      <guid>http://localhost:1313/categories/sans-lactose/</guid>
       <description></description>
     </item>
     <item>
       <title>Salade Composee</title>
-      <link>https://diet-blain.net/categories/salade-composee/</link>
+      <link>http://localhost:1313/categories/salade-composee/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/salade-composee/</guid>
+      <guid>http://localhost:1313/categories/salade-composee/</guid>
       <description></description>
     </item>
     <item>
       <title>Végétarien</title>
-      <link>https://diet-blain.net/categories/v%C3%A9g%C3%A9tarien/</link>
+      <link>http://localhost:1313/categories/v%C3%A9g%C3%A9tarien/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/v%C3%A9g%C3%A9tarien/</guid>
+      <guid>http://localhost:1313/categories/v%C3%A9g%C3%A9tarien/</guid>
       <description></description>
     </item>
     <item>
       <title>Pâte À Tarte</title>
-      <link>https://diet-blain.net/categories/p%C3%A2te-%C3%A0-tarte/</link>
+      <link>http://localhost:1313/categories/p%C3%A2te-%C3%A0-tarte/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/p%C3%A2te-%C3%A0-tarte/</guid>
+      <guid>http://localhost:1313/categories/p%C3%A2te-%C3%A0-tarte/</guid>
       <description></description>
     </item>
     <item>
       <title>Noel</title>
-      <link>https://diet-blain.net/categories/noel/</link>
+      <link>http://localhost:1313/categories/noel/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/noel/</guid>
+      <guid>http://localhost:1313/categories/noel/</guid>
       <description></description>
     </item>
     <item>
       <title>Soupes</title>
-      <link>https://diet-blain.net/categories/soupes/</link>
+      <link>http://localhost:1313/categories/soupes/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://diet-blain.net/categories/soupes/</guid>
+      <guid>http://localhost:1313/categories/soupes/</guid>
       <description></description>
     </item>
   </channel>

@@ -16,6 +16,7 @@ Ingrédients pour 4 personnes
 -12 tranches fines de chorizo
 -Poivre
 
+
 Version monsieur cuisine :
 
 Laver les épinards.
@@ -29,6 +30,7 @@ Verser le vin dans la cuve, chauffer 1 min à 100°c, vit 1, sens inverse.
 Ajouter le bouillon, chorizo, poivre, cuire 20 minutes, 90°c, vit 1,sens inverse.
 
 Ajouter le parmesan et les épinards, 5 minutes, 90°c, vit 1, sens inverse.
+
 
 Version traditionnelle :
 

@@ -1,52 +1,37 @@
 ---
-title: "Risotto aux épinards et chorizo"
-date: 2026-01-13
+title: "Cheesecake Leger"
+date: 2026-04-20
 description: ""
-categories: ['plat']
+categories: ['dessert']
 ---
-Ingrédients pour 4 personnes
 
--200 g de riz rond
--1 petite échalote (facultatif)
--400 g de pousses d’épinards
--10 g de beurre
--100 g de parmesan
--100 ml de vin blanc sec
--700 ml de bouillon
--12 tranches fines de chorizo
--Poivre
+Ingrédients pour 6 personnes :
 
+-3 œufs
+-80 g de sirop d’érable ou sirop d’agave
+-1 cas d’extrait de vanille
+-30 g de maïzena
+-500 g de fromage blanc ou skyr
+-220 g de framboises surgelées + 1 cas maïzena
 
-Version monsieur cuisine :
+Préchauffer le four à 180 °c
 
-Laver les épinards.
+Mettre la maïzena avec 3 cas d’eau froid, mélanger.
 
-Dans la cuve du robot, mettre les échalotes et le beurre, programmer 2 min, 90°c, vit 1.
+Battre les œufs avec le siro et la vanille, ajouter la maïzena délayée,
+puis incorporer progressivement le fromage blanc.
 
-Ajouter le riz, programmer 2 min, 100°c, vit 1, sens inverse.
+Verser dans un moule de 20 cm de diamètre chemisé.
 
-Verser le vin dans la cuve, chauffer 1 min à 100°c, vit 1, sens inverse.
+Enrober les framboises surgelées avec la cuillère à soupe de maïzena,
+puis déposer sur le gâteau.
 
-Ajouter le bouillon, chorizo, poivre, cuire 20 minutes, 90°c, vit 1,sens inverse.
+Mettre au four pendant 50 minutes, le bord doit être pris et le centre
+légèrement tremblotant.
 
-Ajouter le parmesan et les épinards, 5 minutes, 90°c, vit 1, sens inverse.
+Laisser refroidir et mettre au frigo pendant 2h.
 
+Nutrition: 1⁄6 apporte 60 g d’équivalence en protéines + 5 g crus de
+féculents + 1 morceau de sucre
 
-Version traditionnelle :
-
-Laver les épinards. Émincer les échalotes.
-
-Faire revenir dans une poêle les échalotes dans le beurre.
-
-Verser le riz, le laisser pendant 2 minutes.
-
-Ajouter le vin.
-
-Ajouter le bouillon, le poivre et le chorizo et laisser mijoter pendant 20 minutes en
-remuant régulièrement.
-
-Ajouter le parmesan et les épinards et laisser mijoter pendant 5 minutes.
-
-Nutrition: 1⁄4 apporte des légumes, 150 g cuits de féculents, 1 cas d’huile et 25 g de
-fromage. Bien rajouter d’autres légumes soit à côté ou en entrée. Et possibilité de
-rajouter un yaourt pour arriver à l'équivalence de 100 g de viande.
+Issue de Laurenbouffe sur Instagram.

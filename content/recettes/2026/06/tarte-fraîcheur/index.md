@@ -2,23 +2,35 @@
 title: "Tarte fraîcheur"
 date: 2026-06-01
 description: ""
-categories: ['plat, légumes, féculents']
+categories: ['plat', 'légumes', 'féculents']
 ---
 
 Ingrédients pour 6 personnes :
 
 -1 pâte brisée
+
 -240 g de thon
+
 -1 boîte de carré frais à 0% mg
+
 -4 œufs mollets
+
 -1 concombre
+
 -100 g de radis
+
 -6 g de persil
+
 -6 g de ciboulette
+
 -50 g de cornichons
+
 -2 càs de moutarde au miel ou autre
+
 -1 cas d’huile olive
+
 -Sel,poivre
+
 
 Préchauffer le four à 180°c.
 

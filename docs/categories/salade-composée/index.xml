@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Salade Composée on Maud DEFRANCE - Dieteticienne nutritionniste</title>
-		<link>http://localhost:1313/categories/salade-compos%C3%A9e/</link>
+		<link>https://diet-blain.net/categories/salade-compos%C3%A9e/</link>
 		<description>Recent content in Salade Composée on Maud DEFRANCE - Dieteticienne nutritionniste</description>
 		<generator>Hugo</generator>
 		<language>fr-fr</language>
@@ -10,14 +10,14 @@
 		
 		
 		
-			<lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/categories/salade-compos%C3%A9e/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://diet-blain.net/categories/salade-compos%C3%A9e/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Salade de ravioles croustillantes</title>
-				<link>http://localhost:1313/recettes/2026/01/salade-de-ravioles-croustillantes/</link>
-				<pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/recettes/2026/01/salade-de-ravioles-croustillantes/</guid>
+				<link>https://diet-blain.net/recettes/2026/09/salade-de-ravioles-croustillantes/</link>
+				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://diet-blain.net/recettes/2026/09/salade-de-ravioles-croustillantes/</guid>
 				<description>&lt;p&gt;Ingrédients pour 2 personnes :&lt;/p&gt;&#xA;&lt;p&gt;-1 sucrine&lt;/p&gt;&#xA;&lt;p&gt;-250 g de tomates cerises&lt;/p&gt;&#xA;&lt;p&gt;-1⁄2 concombre&lt;/p&gt;&#xA;&lt;p&gt;-2 œufs durs&lt;/p&gt;&#xA;&lt;p&gt;-150 g de ravioles à poêler, ou gnocchis à poêler&lt;/p&gt;&#xA;&lt;p&gt;-Sauce : 2 pots de fromage blanc + 1 cas de moutarde douce + sel,poivre.&lt;/p&gt;&#xA;&lt;p&gt;Cuire les œufs 8 minutes dans l’eau bouillante.&lt;/p&gt;&#xA;&lt;p&gt;Préparer les légumes en les coupant en petits morceaux.&lt;/p&gt;&#xA;&lt;p&gt;Poêler les ravioles ou gnocchis en suivant les instructions au dos du&#xA;sachet.&lt;/p&gt;</description>
 			</item>
 	</channel>

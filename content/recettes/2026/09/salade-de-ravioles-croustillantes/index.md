@@ -2,7 +2,7 @@
 title: "Salade de ravioles croustillantes"
 date: 2026-09-08
 description: ""
-categories: ['plat','salade composée']
+categories: ['plat','salade composee']
 ---
 Ingrédients pour 2 personnes :
 

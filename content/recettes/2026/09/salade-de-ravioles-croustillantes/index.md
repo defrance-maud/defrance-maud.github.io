@@ -1,6 +1,6 @@
 ---
 title: "Salade de ravioles croustillantes"
-date: 2026-01-13
+date: 2026-09-08
 description: ""
 categories: ['plat','salade composée']
 ---

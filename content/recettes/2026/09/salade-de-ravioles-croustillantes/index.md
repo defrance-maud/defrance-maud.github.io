@@ -7,12 +7,16 @@ categories: ['plat','salade composée']
 Ingrédients pour 2 personnes :
 
 -1 sucrine
+
 -250 g de tomates cerises
+
 -1⁄2 concombre
+
 -2 œufs durs
+
 -150 g de ravioles à poêler, ou gnocchis à poêler
--Sauce : 2 pots de fromage blanc + 1 cas de moutarde douce +
--sel,poivre.
+
+-Sauce : 2 pots de fromage blanc + 1 cas de moutarde douce + sel,poivre.
 
 Cuire les œufs 8 minutes dans l’eau bouillante.
 

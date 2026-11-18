@@ -8,7 +8,7 @@
         <a href="{{ $pageLink }}"><img src="{{ .RelPermalink }}" alt="{{ $pageTitle }}"></a>
         {{ end }}
         <p>{{ .Description }}</p>
-        <div class="post-readmore"> <a href="{{ .Permalink }}" class="more-link">Voir la recette</a></div>
+        <div class="post-readmore"> <a href="{{ .RelPermalink }}" class="more-link">Voir la recette</a></div>
     </div>
 
     {{ partial "post/footer.html" . }}
